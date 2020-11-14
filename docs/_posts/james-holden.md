@@ -1,16 +1,13 @@
 ---
 title: 'James Holden'
-date: '2019-03-26T16:18:15+01:00'
+date: 2019-03-26
 status: publish
 permalink: /james-holden
-author: null
-excerpt: ''
-type: post
-id: 511
-thumbnail: ../../uploads/2019/03/james_holden_1517916695._1x2560-150x150.jpg
+author: Alice Dini
+featuredimg: /assets/img/james_holden_1517916695._1x2560.jpg
 category:
     - Artisti
-tag:
+tags:
     - Electro
     - Exeter
     - Glitch
@@ -21,9 +18,8 @@ tag:
     - Techno
     - 'The Animal Spirits'
     - UK
-post_format: []
 ---
-![](../../uploads/2019/03/james_holden_1517916695._1x2560.jpg)
+![](/assets/img/james_holden_1517916695._1x2560.jpg)
 
 **James Alexander Goodale Holden**, meglio conosciuto come **James Holden**, nasce nel 1979 a Exeter in Inghilterra, e esordisce nel mondo della musica a vent’anni, con il b side *Horizons/Pacific*, pubblicato da **Silver Planet**. Da subito inserito fra le promesse della musica house James apre la sua carriera all’interno del mondo della musica “dance”.
 

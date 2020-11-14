@@ -2,4 +2,4 @@
 
 Its REPO is here: https://github.com/wowthemesnet/mediumish-vuepress-blog-theme
 
-![mediumish vuepress blogging theme](https://wowthemesnet.github.io/vuepress-theme-mediumish/assets/img/screenshot.jpg)
+![](https://wowthemesnet.github.io/vuepress-theme-mediumish/assets/img/screenshot.jpg)

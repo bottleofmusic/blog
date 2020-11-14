@@ -3,24 +3,18 @@ title: Movement Torino Music Festival 2018
 date: 2018-10-04T00:58:34+02:00
 status: publish
 permalink: "/movement-torino-music-festival-2018"
-author: 
-excerpt: ''
-type: post
-id: 170
-thumbnail: "../../uploads/2018/10/movement-torino-music-festival-png-150x150.jpg"
+author: Alice Dini
+featuredimg: "/assets/img/movement-torino-music-festival-png.jpg"
 category:
 - Articoli
-tag:
+tags:
 - Festival
 - Italia
 - Movement Torino Music Festival
 - Playlist
-post_format: []
-timeline_notification:
-- '1538728146'
 
 ---
-![movement-torino-music-festival.png](http://bottleofmusic.000webhostapp.com/wp-content/uploads/2018/10/movement-torino-music-festival-png.jpg?w=300)
+![](/assets/img/movement-torino-music-festival-png.jpg)
 
 Il **Movement Torino Music Festival** inizia ad essere ormai un’istituzione fra i festival di musica elettronica italiani.
 

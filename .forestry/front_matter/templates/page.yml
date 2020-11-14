@@ -2,15 +2,17 @@
 label: Page
 hide_body: false
 fields:
-- name: title
-  type: text
-  config:
-    required: false
-  label: title
-- name: description
-  type: text
-  config:
-    required: false
-  label: description
+  - name: title
+    type: text
+    config:
+      required: false
+    label: title
+  - name: description
+    type: text
+    config:
+      required: false
+    label: description
 pages:
-- docs/about.md
+  - docs/contatti.md
+  - docs/informazioni.md
+  - docs/privacy-policy.md

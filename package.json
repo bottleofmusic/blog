@@ -1,21 +1,6 @@
 {
-  "name": "vuepress-theme-mediumish",
-  "version": "1.0.32",
-  "description": "Mediumish blog theme for VuePress",
-  "keywords": [
-    "vue",
-    "vuepress",
-    "vuepress-theme",
-    "blog-theme",
-    "blog",
-    "theme"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "wowthemesnet/mediumish-vuepress-blog-theme"
-  },
-  "license": "MIT",
-  "author": "sal<wowthemesnet@gmail.com>",
+  "name": "bottleofmusicblog",
+  "version": "0.1.0",
   "main": "index.js",
   "files": [
     "index.js",
@@ -79,8 +64,5 @@
   },
   "peerDependencies": {
     "vuepress": "^1.0.0"
-  },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
   }
 }

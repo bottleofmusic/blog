@@ -1,30 +1,17 @@
-const removeMd = require('remove-markdown')
-const path = require('path')
-const pick = require('lodash/pick')
+const removeMd = require("remove-markdown");
+const path = require("path");
+const pick = require("lodash/pick");
 
 module.exports = themeConfig => {
   /**
    * Default theme configuration
    */
   themeConfig = Object.assign(themeConfig, {
-    logo: '/assets/img/logo.png',
-    nav: themeConfig.nav || [
-      {
-        text: 'Blog',
-        link: '/',
-      },
-      {
-        text: 'Tags',
-        link: '/tag/',
-      },
-    ],
+    nav: themeConfig.nav || [],
     summary: themeConfig.summary === undefined ? true : themeConfig.summary,
-    summaryLength:
-      typeof themeConfig.summaryLength === 'number'
-        ? themeConfig.summaryLength
-        : 200,
-    pwa: !!themeConfig.pwa,
-  })
+    summaryLength: typeof themeConfig.summaryLength === "number" ? themeConfig.summaryLength : 200,
+    pwa: !!themeConfig.pwa
+  });
 
   /**
    * Configure blog plugin
@@ -32,90 +19,90 @@ module.exports = themeConfig => {
   const defaultBlogPluginOptions = {
     directories: [
       {
-        id: 'post',
-        dirname: '_posts',
-        path: '/',
-      },
+        id: "post",
+        dirname: "_posts",
+        path: "/"
+      }
     ],
     frontmatters: [
       {
-        id: 'tag',
-        keys: ['tags'],
-        path: '/tag/',
-      },
+        id: "tag",
+        keys: ["tags"],
+        path: "/tag/"
+      }
     ],
     globalPagination: {
-      lengthPerPage: 6,
-    },
-  }
+      lengthPerPage: 6
+    }
+  };
 
-  let resolvedFeedOptions
-  const isFeedEnabled = themeConfig.feed && themeConfig.feed.canonical_base
+  let resolvedFeedOptions;
+  const isFeedEnabled = themeConfig.feed && themeConfig.feed.canonical_base;
   if (isFeedEnabled) {
     const {
       rss = true,
       atom = true,
       json = true,
       ...feedOptions
-    } = themeConfig.feed
+    } = themeConfig.feed;
     resolvedFeedOptions = Object.assign({}, feedOptions, {
       feeds: {
-        rss2: { enable: rss },
-        atom1: { enable: atom },
-        json1: { enable: json },
-      },
-    })
+        rss2: {enable: rss},
+        atom1: {enable: atom},
+        json1: {enable: json}
+      }
+    });
   }
 
   const properties = [
-    'directories',
-    'frontmatters',
-    'globalPagination',
-    'sitemap',
-    'comment',
-    'newsletter',
-  ]
+    "directories",
+    "frontmatters",
+    "globalPagination",
+    "sitemap",
+    "comment",
+    "newsletter"
+  ];
   const themeConfigPluginOptions = {
     ...pick(themeConfig, properties),
-    feed: resolvedFeedOptions,
-  }
+    feed: resolvedFeedOptions
+  };
 
   const blogPluginOptions = Object.assign(
     {},
     defaultBlogPluginOptions,
     themeConfigPluginOptions
-  )
+  );
 
   /**
    * Integrate plugins
    */
 
-  const enableSmoothScroll = themeConfig.smoothScroll === true
+  const enableSmoothScroll = themeConfig.smoothScroll === true;
 
   const plugins = [
-    '@vuepress/plugin-nprogress',
-    ['@vuepress/medium-zoom', true],
+    "@vuepress/plugin-nprogress",
+    ["@vuepress/medium-zoom", true],
     [
-      '@vuepress/search',
+      "@vuepress/search",
       {
-        searchMaxSuggestions: 10,
-      },
+        searchMaxSuggestions: 10
+      }
     ],
-    ['@vuepress/blog', blogPluginOptions],
-    ['smooth-scroll', enableSmoothScroll],
-  ]
+    ["@vuepress/blog", blogPluginOptions],
+    ["smooth-scroll", enableSmoothScroll]
+  ];
 
   /**
    * Enable pwa
    */
   if (themeConfig.pwa) {
     plugins.push([
-      '@vuepress/pwa',
+      "@vuepress/pwa",
       {
         serviceWorker: true,
-        updatePopup: true,
-      },
-    ])
+        updatePopup: true
+      }
+    ]);
   }
 
   const config = {
@@ -123,34 +110,34 @@ module.exports = themeConfig => {
     define: {
       THEME_BLOG_PAGINATION_COMPONENT: themeConfig.paginationComponent
         ? themeConfig.paginationComponent
-        : 'Pagination',
+        : "Pagination"
     },
     alias: {
-      fonts: path.resolve(__dirname, 'fonts'),
+      fonts: path.resolve(__dirname, "fonts")
     },
     /**
      * Generate summary.
      */
     extendPageData(pageCtx) {
-      const strippedContent = pageCtx._strippedContent
+      const strippedContent = pageCtx._strippedContent;
       if (!strippedContent) {
-        return
+        return;
       }
       if (themeConfig.summary) {
         pageCtx.summary =
           removeMd(
             strippedContent
               .trim()
-              .replace(/^#+\s+(.*)/, '')
+              .replace(/^#+\s+(.*)/, "")
               .slice(0, themeConfig.summaryLength)
-          ) + ' ...'
-        pageCtx.frontmatter.description = pageCtx.summary
+          ) + " ...";
+        pageCtx.frontmatter.description = pageCtx.summary;
       }
       if (pageCtx.frontmatter.summary) {
-        pageCtx.frontmatter.description = pageCtx.frontmatter.summary
+        pageCtx.frontmatter.description = pageCtx.frontmatter.summary;
       }
-    },
-  }
+    }
+  };
 
-  return config
-}
+  return config;
+};

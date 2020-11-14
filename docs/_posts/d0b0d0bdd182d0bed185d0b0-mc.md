@@ -1,23 +1,17 @@
 ---
 title: 'Антоха MC'
-date: '2018-09-14T14:40:33+02:00'
+date: 2018-09-14
 status: publish
 permalink: /%d0%b0%d0%bd%d1%82%d0%be%d1%85%d0%b0-mc
-author: null
-excerpt: ''
-type: post
-id: 95
-thumbnail: ../../uploads/2018/09/photo_2017-01-26_11-56-25-150x150.jpeg
+author: Alice Dini
+featuredimg: /assets/img/photo_2017-01-26_11-56-25.jpeg
 category:
     - Artisti
-tag:
+tags:
     - Rap
     - Russia
-post_format: []
-timeline_notification:
-    - '1537022387'
 ---
-**![photo_2017-01-26_11-56-25](http://bottleofmusic.000webhostapp.com/wp-content/uploads/2018/09/photo_2017-01-26_11-56-25.jpeg?w=1024)**
+![](/assets/img/photo_2017-01-26_11-56-25.jpeg)
 
 **Антоха MC** \[Antoha MC\], o Антон Александрович Кузнецов \[Anton Aleksandrovich Kuznetsov\], è un musicista e rapper russo, nato a **Mosca** nel 1990 inizia presto i suoi studi di trombettista, incoraggiato da una famiglia di musicisti.
 

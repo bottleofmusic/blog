@@ -1,23 +1,19 @@
 ---
 title: HOME
-date: '2019-03-21T21:48:16+01:00'
+date: 2019-03-21
 status: publish
 permalink: /home
-author: null
-excerpt: ''
-type: post
-id: 388
-thumbnail: ../../uploads/2019/03/15530962247563194124641598187642-01-01-150x150.jpeg
+author: Alice Dini
+featuredimg: /assets/img/15530962247563194124641598187642-01-01.jpeg
 category:
     - Artisti
-tag:
+tags:
     - Florida
     - Home
     - Synthwave
     - USA
-post_format: []
 ---
-![](../../uploads/2019/03/15530962247563194124641598187642-01-01-1024x619.jpeg)
+![](/assets/img/15530962247563194124641598187642-01-01.jpeg)
 
 **HOME** è lo pseudonimo di **Randy Goffe**, originario del sud della Florida e ora attivo a Chicago, classe ’96, produttore poco conosciuto se non per un brano: *Resonance*, diventato sul web uno dei simboli del genere synthwave, diffusosi ampiamente su internet a partire dagli anni 2010.
 

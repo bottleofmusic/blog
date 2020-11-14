@@ -1,25 +1,21 @@
 ---
 title: 'Tante Anne'
-date: '2018-12-12T16:42:00+01:00'
+date: 2018-12-12
 status: publish
 permalink: /tante-anne
-author: null
-excerpt: ''
-type: post
-id: 319
-thumbnail: ../../uploads/2018/12/1492082416502-tante-anna-2017-1-150x150.jpg
+author: Alice Dini
+featuredimg: /assets/img/1492082416502-tante-anna-2017-1.jpg
 category:
     - Artisti
-tag:
+tags:
     - Darkwave
     - Emo
     - Italia
     - Pesaro
     - Shitgaze
     - Shoegaze
-post_format: []
 ---
-![](../../uploads/2018/12/1492082416502-tante-anna-2017-1.jpg)
+![](/assets/img/1492082416502-tante-anna-2017-1.jpg)
 
 I **Tante Anna** nascono a Pesaro dall’unione dell’illustratore **Alessandro Baronciani** e **Thomas Koppen**, amici da una vita, una chitarra, un basso elettrico e una batteria elettronica.
 

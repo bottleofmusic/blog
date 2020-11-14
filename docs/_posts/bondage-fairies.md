@@ -1,16 +1,13 @@
 ---
 title: 'Bondage Fairies'
-date: '2019-04-10T16:41:59+02:00'
+date: 2019-04-10
 status: publish
 permalink: /bondage-fairies
-author: null
-excerpt: ''
-type: post
-id: 527
-thumbnail: ../../uploads/2019/04/BondageFairies_Pressepic_Credit_AnnaMolin_2017_1-150x150.jpg
+author: Alice Dini
+featuredimg: /assets/img/BondageFairies_Pressepic_Credit_AnnaMolin_2017_1.jpg
 category:
     - Artisti
-tag:
+tags:
     - 'Bondage Fairies'
     - Glitch
     - Post-Punk
@@ -18,9 +15,8 @@ tag:
     - Russia
     - Stoccolma
     - Svezia
-post_format: []
 ---
-![](../../uploads/2019/04/BondageFairies_Pressepic_Credit_AnnaMolin_2017_1-1024x827.jpg)
+![](/assets/img/BondageFairies_Pressepic_Credit_AnnaMolin_2017_1.jpg)
 
 Cercare “Bondage Fairies” su internet può avere risultati inaspettati se uno non è al corrente che il nome del gruppo è lo stesso di un manga erotico piuttosto esplicito.
 

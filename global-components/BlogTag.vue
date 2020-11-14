@@ -1,13 +1,13 @@
 <template>
-  <router-link class="blog-tag" :to="tag.path">
+  <router-link :to="tag.path" class="blog-tag">
     {{ tag.name }} ({{ tag.pages.length }})
   </router-link>
 </template>
 
 <script>
 export default {
-  props: ['tag'],
-}
+  props: ["tag"]
+};
 </script>
 
 <style lang="stylus">
@@ -24,7 +24,6 @@ export default {
   font-weight 300
   text-align left
   box-sizing border-box
-  transition background-color 0.3s
   color $darkTextColor
   border 1px solid $darkBorderColor
   text-decoration none

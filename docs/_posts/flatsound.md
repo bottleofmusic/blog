@@ -1,25 +1,21 @@
 ---
 title: Flatsound
-date: '2019-03-13T18:28:04+01:00'
+date: 2019-03-13
 status: publish
 permalink: /flatsound
-author: null
-excerpt: ''
-type: post
-id: 496
-thumbnail: ../../uploads/2019/03/IMG_2005-150x150.jpg
+author: Alice Dini
+featuredimg: /assets/img/IMG_2005.jpg
 category:
     - Artisti
-tag:
+tags:
     - Alternative
     - California
     - Flatsound
     - Indie
     - Lo-fi
     - 'Mitch Welling'
-post_format: []
 ---
-![](../../uploads/2019/03/IMG_2005.jpg)
+![](/assets/img/IMG_2005.jpg)
 
 **Flatsound** è il progetto solista di **Mitch Welling**. Mitch non appare molto in pubblico se non tramite alcune foto e le righe che scrive di sé nel suo blog.
 

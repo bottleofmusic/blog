@@ -1,24 +1,20 @@
 ---
 title: 'Neutral Milk Hotel'
-date: '2019-03-06T18:49:10+01:00'
+date: 2019-03-06
 status: publish
 permalink: /neutral-milk-hotel
-author: null
-excerpt: ''
-type: post
-id: 467
-thumbnail: ../../uploads/2019/03/neutral-150x150.jpg
+author: Alice Dini
+featuredimg: /assets/img/neutral.jpg
 category:
     - Artisti
-tag:
+tags:
     - Alternative
     - 'Neutral Milk Hotel'
     - 'Psychedelic Rock'
     - Rock
     - USA
-post_format: []
 ---
-![](../../uploads/2019/03/neutral.jpg)
+![](/assets/img/neutral.jpg)
 
 I **Neutral Milk Hotel** sono un gruppo indie rock alternative statunitense fondato da Jeff Magnum insieme a Jeremy Barnes, Scott Spillane e Julian Koster. Il gruppo, dalle chiare influenze folk sia nella scelta degli strumenti sia nello stile dei brani, esordisce nel 1993 con *Hype City Soundtrack*.
 

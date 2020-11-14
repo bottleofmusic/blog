@@ -1,16 +1,13 @@
 ---
 title: 'Dino Fumaretto e il suo coma pirandelliano'
-date: '2019-03-10T15:58:11+01:00'
+date: 2019-03-10
 status: publish
 permalink: /dino-fumaretto-coma
-author: null
-excerpt: ''
-type: post
-id: 476
-thumbnail: ../../uploads/2019/03/1515583501165-150x150.jpg
+author: Alice Dini
+featuredimg: /assets/img/1515583501165.jpg
 category:
     - Articoli
-tag:
+tags:
     - 'Dino Fumaretto'
     - Firenze
     - Italia
@@ -18,9 +15,8 @@ tag:
     - 'Musica Sperimentale'
     - Post-Punk
     - Punk
-post_format: []
 ---
-![](../../uploads/2019/03/1515583501165.jpg)
+![](/assets/img/1515583501165.jpg)
 
 Ieri sera ho assistito quasi per caso alla terza data del tour di **Dino Fumaretto** a Firenze, insieme a **IOSONOUNCANE**, **Rocco Marchi**, **Simone Cavina** e **Francesca Baccolini**, e mi sono ritrovata a chiedermi dove fossi e come ci fossi arrivata.
 

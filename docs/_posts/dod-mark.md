@@ -1,24 +1,18 @@
 ---
 title: 'Död Mark'
-date: '2018-09-12T23:00:26+02:00'
+date: 2018-09-12
 status: publish
 permalink: /dod-mark
-author: null
-excerpt: ''
-type: post
-id: 56
-thumbnail: ../../uploads/2018/09/avatars-000276813947-7keujy-t500x500-e1536758427291-150x150.jpg
+author: Alice Dini
+featuredimg: /assets/img/avatars-000276813947-7keujy-t500x500-e1536758427291.jpg
 category:
     - Artisti
-tag:
+tags:
     - Hardcore
     - Post-Punk
     - Svezia
-post_format: []
-timeline_notification:
-    - '1536786028'
 ---
-![avatars-000276813947-7keujy-t500x500](http://bottleofmusic.000webhostapp.com/wp-content/uploads/2018/09/avatars-000276813947-7keujy-t500x500-e1536758427291.jpg?w=300)
+![](/assets/img/avatars-000276813947-7keujy-t500x500-e1536758427291.jpg)
 
 **Död Mark** è un progetto parallelo del rapper svedese **Yung Lean**, frontman dei **Sad Boys**, e dal dj e producer **Yung Gud**.
 

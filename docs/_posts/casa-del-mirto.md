@@ -1,26 +1,20 @@
 ---
 title: 'Casa del Mirto'
-date: '2018-09-19T07:43:51+02:00'
+date: 2018-09-19
 status: publish
 permalink: /casa-del-mirto
-author: null
-excerpt: ''
-type: post
-id: 116
-thumbnail: ../../uploads/2018/09/15-domande-intervista-rockit-casa-del-mirto-150x150.jpg
+author: Alice Dini
+featuredimg: /assets/img/15-domande-intervista-rockit-casa-del-mirto.jpg
 category:
     - Artisti
-tag:
+tags:
     - Chillwave
     - 'Dream Pop'
     - Electro
     - House
     - Italia
-post_format: []
-timeline_notification:
-    - '1537533864'
 ---
-![](http://bottleofmusic.000webhostapp.com/wp-content/uploads/2018/09/15-domande-intervista-rockit-casa-del-mirto.jpg)
+![](/assets/img/15-domande-intervista-rockit-casa-del-mirto.jpg)
 
 **Casa del Mirto** è il progetto musicale fondato da **Marco Ricci**, originario di Jyväskylä in Finlandia, ma cresciuto in Trentino Alto Adige, nel 2005. Al progetto si sono poi aggiunti **Raffaele Ricci** e **Luigi Segnana.**
 

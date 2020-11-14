@@ -1,16 +1,13 @@
 ---
 title: 'Amnesia Scanner'
-date: '2019-01-28T19:00:10+01:00'
+date: 2019-01-28
 status: publish
 permalink: /amnesia-scanner
-author: null
-excerpt: ''
-type: post
-id: 390
-thumbnail: ../../uploads/2019/01/15622891471_906cabe09f_b-150x150.jpg
+author: Alice Dini
+featuredimg: /assets/img/15622891471_906cabe09f_b.jpg
 category:
     - Artisti
-tag:
+tags:
     - 'Amnesia Scanner'
     - Berlino
     - 'Elettronica Sperimentale'
@@ -19,9 +16,8 @@ tag:
     - Germania
     - Glitch
     - 'Musica Sperimentale'
-post_format: []
 ---
-![](../../uploads/2019/01/15622891471_906cabe09f_b.jpg)
+![](/assets/img/15622891471_906cabe09f_b.jpg)
 
 **Amnesia Scanner** è un duo finlandese che lavora a Berlino composto da **Ville Haimala** e **Martti Kalliala**.
 

@@ -1,60 +1,52 @@
 <template>
   <router-link
     v-if="!isExternal(normalizedlink)"
-    class=""
-    :to="normalizedlink"
     :exact="exact"
-  >
-    <slot />
+    :to="normalizedlink"
+    class="">
+    <slot/>
   </router-link>
   <a
     v-else
     :href="normalizedlink"
-    class="external"
-    :target="
-      isMailto(normalizedlink) || isTel(normalizedlink) ? null : '_blank'
-    "
-    :rel="
-      isMailto(normalizedlink) || isTel(normalizedlink)
-        ? null
-        : 'noopener noreferrer'
-    "
-  >
-    <slot />
+    :rel="isMailto(normalizedlink) || isTel(normalizedlink) ? null : 'noopener noreferrer'"
+    :target="isMailto(normalizedlink) || isTel(normalizedlink) ? null : '_blank'"
+    class="external">
+    <slot/>
   </a>
 </template>
 
 <script>
-import { isExternal, isMailto, isTel, ensureExt } from '../components/util'
+import {ensureExt, isExternal, isMailto, isTel} from "../components/util";
 
 export default {
   props: {
     link: {
-      required: true,
-    },
+      required: true
+    }
   },
 
   computed: {
     normalizedlink() {
-      return ensureExt(this.link)
+      return ensureExt(this.link);
     },
 
     exact() {
       if (this.$site.locales) {
         return Object.keys(this.$site.locales).some(
           rootLink => rootLink === this.normalizedlink
-        )
+        );
       }
-      return this.normalizedlink === '/'
-    },
+      return this.normalizedlink === "/";
+    }
   },
 
   methods: {
     isExternal,
     isMailto,
-    isTel,
-  },
-}
+    isTel
+  }
+};
 </script>
 
 <style lang="stylus">

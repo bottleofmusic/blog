@@ -1,16 +1,13 @@
 ---
 title: 'Cactus?'
-date: '2019-04-03T20:19:01+02:00'
+date: 2019-04-03
 status: publish
 permalink: /cactus
-author: null
-excerpt: ''
-type: post
-id: 519
-thumbnail: ../../uploads/2019/04/52774242_2364707830229015_706363713208188928_o-150x150.jpg
+author: Alice Dini
+featuredimg: /assets/img/52774242_2364707830229015_706363713208188928_o.jpg
 category:
     - Artisti
-tag:
+tags:
     - Alternative
     - 'Cactus?'
     - 'Indie Rock'
@@ -19,9 +16,8 @@ tag:
     - 'No People Party'
     - 'Psychedelic Rock'
     - Vicenza
-post_format: []
 ---
-![](../../uploads/2019/04/52774242_2364707830229015_706363713208188928_o.jpg)
+![](/assets/img/52774242_2364707830229015_706363713208188928_o.jpg)
 
 **Cactus?** è un progetto indie rock (o superfast indie dance come si autodefiniscono) lo-fi nato nel vicentino nel 2014. Il primo EP, omonimo al progetto, esce nel 2015 poco prima che il gruppo apra il concerto degli inglesi **Menace Beach**.
 

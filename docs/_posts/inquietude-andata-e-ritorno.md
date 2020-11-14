@@ -1,25 +1,21 @@
 ---
 title: 'Inquietude, andata e ritorno.'
-date: '2018-10-29T12:23:05+01:00'
+date: 2018-10-29
 status: publish
 permalink: /inquietude-andata-e-ritorno
-author: null
-excerpt: ''
-type: post
-id: 263
-thumbnail: ../../uploads/2018/10/43706392_1193417294139803_1011969559944495104_o-e1550071660206-150x150.jpg
+author: Alice Dini
+featuredimg: /assets/img/43706392_1193417294139803_1011969559944495104_o-e1550071660206.jpg
 category:
     - Articoli
-tag:
+tags:
     - Cantù
     - 'Hip Hop'
     - Inquietude
     - Italia
     - 'Musica Sperimentale'
     - 'X Factor'
-post_format: []
 ---
-![](../../uploads/2018/10/43706392_1193417294139803_1011969559944495104_o-e1550071660206.jpg)
+![](/assets/img/43706392_1193417294139803_1011969559944495104_o-e1550071660206.jpg)
 
 Non è la prima volta che dalla “provincia” esce, come sputato fuori da una realtà troppo stretta, un progetto come quello degli **Inquietude**. Originari di **Cantù**, nella provincia comasca, portano avanti dal 2017 un progetto “oltre i generi” e ricco di sperimentazioni. Oggi è difficile proporre qualcosa di nuovo: innovativo ormai non è il creare un certo sound o un ritmo particolare, innovativo è portare un genere a parlare di ciò di cui non ha mai parlato e a rappresentare chi non ha mai rappresentato.
 

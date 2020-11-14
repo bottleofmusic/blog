@@ -1,12 +1,6 @@
 ---
 title: 'Privacy Policy'
-date: '2018-10-05T19:18:29+02:00'
-status: publish
 permalink: /privacy-policy
-author: admin
-excerpt: ''
-type: page
-id: 3
 ---
 Chi siamo
 ---------

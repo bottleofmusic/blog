@@ -1,26 +1,20 @@
 ---
 title: 'Common Loon'
-date: '2018-09-19T10:55:43+02:00'
+date: 2018-09-19
 status: publish
 permalink: /common-loon
-author: null
-excerpt: ''
-type: post
-id: 123
-thumbnail: ../../uploads/2018/09/10572197_414733598687106_1462034200825397411_o3-150x150.jpg
+author: Alice Dini
+featuredimg: /assets/img/10572197_414733598687106_1462034200825397411_o3.jpg
 category:
     - Artisti
-tag:
+tags:
     - Indie
     - 'Psychedelic pop'
     - 'Psychedelic Rock'
     - Rock
     - USA
-post_format: []
-timeline_notification:
-    - '1537536326'
 ---
-![10572197_414733598687106_1462034200825397411_o3](http://bottleofmusic.000webhostapp.com/wp-content/uploads/2018/09/10572197_414733598687106_1462034200825397411_o3.jpg)
+![](/assets/img/10572197_414733598687106_1462034200825397411_o3.jpg)
 
 I **Common Loon** sono una band semisconosciuta formata da “Robert e Matt”, due amici di **Champaign**, Illinois, città universitaria del **Midwest**, non lontana da Chicago.
 

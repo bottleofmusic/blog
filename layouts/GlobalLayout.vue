@@ -1,43 +1,43 @@
 <template>
   <div id="vuepress-theme-blog__global-layout">
-    <Header />
+    <Header/>
     <MobileHeader
       :is-open="isMobileHeaderOpen"
       @toggle-sidebar="isMobileHeaderOpen = !isMobileHeaderOpen"
     />
     <div class="container wrapmain" @click="isMobileHeaderOpen = false">
-      <DefaultGlobalLayout />
+      <DefaultGlobalLayout/>
     </div>
-    <Footer />
+    <Footer/>
   </div>
 </template>
 
 <script>
-import GlobalLayout from '@app/components/GlobalLayout.vue'
-import Header from '@theme/components/Header.vue'
-import MobileHeader from '@theme/components/MobileHeader.vue'
-import Footer from '@theme/components/Footer.vue'
+import GlobalLayout from "@app/components/GlobalLayout.vue";
+import Header from "@theme/components/Header.vue";
+import MobileHeader from "@theme/components/MobileHeader.vue";
+import Footer from "@theme/components/Footer.vue";
 
 export default {
   components: {
     DefaultGlobalLayout: GlobalLayout,
     Header,
     MobileHeader,
-    Footer,
+    Footer
   },
 
   data() {
     return {
-      isMobileHeaderOpen: false,
-    }
+      isMobileHeaderOpen: false
+    };
   },
 
   mounted() {
     this.$router.afterEach(() => {
-      this.isMobileHeaderOpen = false
-    })
-  },
-}
+      this.isMobileHeaderOpen = false;
+    });
+  }
+};
 </script>
 
 <style lang="stylus">

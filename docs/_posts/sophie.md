@@ -1,16 +1,13 @@
 ---
 title: SOPHIE
-date: '2019-02-27T11:51:43+01:00'
+date: 2019-02-27
 status: publish
 permalink: /sophie
-author: null
-excerpt: ''
-type: post
-id: 435
-thumbnail: ../../uploads/2019/02/sophielive-150x150.jpg
+author: Alice Dini
+featuredimg: /assets/img/sophielive.jpg
 category:
     - Artisti
-tag:
+tags:
     - Glasgow
     - Glitch
     - 'Los Angeles'
@@ -19,9 +16,8 @@ tag:
     - Queer
     - Scozia
     - SOPHIE
-post_format: []
 ---
-![](../../uploads/2019/02/sophielive.jpg)
+![](/assets/img/sophielive.jpg)
 
 **SOPHIE**, pseudonimo di **Sophie Xeon**, è una producer di origine scozzese. Attualmente all’interno della scena musicale di Los Angeles è uno dei fenomeni più discussi della Pop Culture.
 

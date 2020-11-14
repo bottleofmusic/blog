@@ -1,25 +1,19 @@
 ---
 title: 'Elliot Moss'
-date: '2018-10-03T16:10:40+02:00'
+date: 2018-10-03
 status: publish
 permalink: /elliot-moss
-author: null
-excerpt: ''
-type: post
-id: 175
-thumbnail: ../../uploads/2018/10/elliotmoss10-150x150.jpg
+author: Alice Dini
+featuredimg: /assets/img/elliotmoss10.jpg
 category:
     - Artisti
-tag:
+tags:
     - Alternative
     - Electro-pop
     - Indie
     - USA
-post_format: []
-timeline_notification:
-    - '1538741629'
 ---
-![elliotmoss10](http://bottleofmusic.000webhostapp.com/wp-content/uploads/2018/10/elliotmoss10.jpg)
+![](/assets/img/elliotmoss10.jpg)
 
 **Elliot Moss** è un polistrumentista e compositore newyorkese. L’album di debutto *Highspeeds*, del 2015, lo inserisce fin da subito in un contesto electro-indie, che unisce l’utilizzo di strumenti elettronici al vecchio “chitarra e voce” caratteristico del mondo indie cantautorale, che dà infatti molta importanza anche alla dimensione testuale, caratteristica che possiamo ritrovare molto forte nei brani di **Elliot Moss.**
 

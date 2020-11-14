@@ -1,16 +1,13 @@
 ---
 title: 'Assume Form, la nuova dimensione di James Blake'
-date: '2019-01-18T21:30:12+01:00'
+date: 2019-01-18
 status: publish
 permalink: /assume-form-james-blake
-author: null
-excerpt: ''
-type: post
-id: 374
-thumbnail: ../../uploads/2019/01/james-blake-assume-form-150x150.jpg
+author: Alice Dini
+featuredimg: /assets/img/james-blake-assume-form.jpg
 category:
     - Recensioni
-tag:
+tags:
     - Blues
     - Elettronica
     - 'Hip Hop'
@@ -18,9 +15,8 @@ tag:
     - Londra
     - 'Nuovo Album'
     - UK
-post_format: []
 ---
-![](../../uploads/2019/01/james-blake-assume-form.jpg)
+![](/assets/img/james-blake-assume-form.jpg)
 
 L’ultimo album di **James Blake** è prevedibile nel contesto in cui nasce, ma imprevedibile nel risultato che ha invece avuto.
 

@@ -1,97 +1,82 @@
 module.exports = {
-  title: 'Mediumish',
-  base: '/',
-  dest: 'public',
-  description: 'Mediumish theme with VuePress and Forestry',
-  logo: './assets/img/logo.png',
-  theme: require.resolve('../../'),
+  title: "Bottle of Music",
+  base: "/",
+  dest: "public",
+  description: "Bottle of Music Blog",
+  logo: "./assets/img/icon.png",
+  theme: require.resolve("../../"),
   themeConfig: {
-  authors: [
+    logo: "./assets/img/icon.png",
+    authors: [
       {
-      name: 'Sal',
-      avatar: '/assets/img/sal.jpg',
-      link: 'https://wowthemes.net/donate',
-      linktext: 'Follow',
+        name: "Alice Dini",
+        avatar: "/assets/img/ad.jpg",
       },
       {
-        name: 'John Doe',
-        avatar: '/assets/img/avatar.png',
-        link: 'https://bootstrapstarter.com/',
-        linktext: 'Follow',
+        name: "Alessandro",
+        avatar: "/assets/img/ac.png",
+      }
+    ],
+    nav: [
+      {
+        text: "Home",
+        link: "/"
       },
+      {
+        text: "Tags",
+        link: "/tag/"
+      },
+      {
+        text: "Informazioni",
+        link: "/informazioni/"
+      },
+      {
+        text: "Contatti",
+        link: "/contatti/"
+      }
     ],
     footer: {
       contact: [
         {
-          type: 'codepen',
-          link: '#',
+          type: "facebook",
+          link: "https://www.facebook.com/bottleofmusic/"
         },
         {
-          type: 'facebook',
-          link: '#',
+          type: "instagram",
+          link: "https://www.instagram.com/bottleofmusic/"
         },
         {
-          type: 'github',
-          link: 'https://github.com/wowthemesnet/mediumish-vuepress-blog-theme',
+          type: "twitter",
+          link: "https://twitter.com/bottle_of_music"
         },
         {
-          type: 'gitlab',
-          link: '#',
+          type: "mail",
+          link: "mailto:bottleofmusicblog@gmail.com"
         },
         {
-          type: 'instagram',
-          link: '#',
+          type: "mixcloud",
+          link: "https://www.mixcloud.com/bottleofmusic/"
         },
-        {
-          type: 'linkedin',
-          link: '#',
-        },
-        {
-          type: 'mail',
-          link: '#',
-        },
-        {
-          type: 'messenger',
-          link: '#',
-        },
-        {
-          type: 'phone',
-          link: '#',
-        },
-        {
-          type: 'twitter',
-          link: 'https://twitter.com/wowthemesnet',
-        },
-        {
-          type: 'web',
-          link: '#',
-        }
       ],
       copyright: [
         {
-          text: 'Licensed MIT.',
-          link: 'https://bootstrapstarter.com/license/',
-        },
-        {
-          text: 'Made with Mediumish - free Vuepress theme',
-          link: 'https://bootstrapstarter.com/bootstrap-templates/vuepress-theme-mediumish/',
-        },
-      ],
+          text: "Copyright &copy; Bottle of Music. Tutti i diritti riservati. All rights reserved."
+        }
+      ]
     },
-
     sitemap: {
-      hostname: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/'
+      hostname: "https://github.com/wowthemesnet/vuepress-theme-mediumish/"
     },
     comment: {
-      service: 'disqus',
-      shortname: 'demowebsite',
+      service: "disqus",
+      shortname: "demowebsite"
     },
     newsletter: {
-      endpoint: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&id=8c3d2d214b'
+      endpoint: "https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&id=8c3d2d214b"
     },
     feed: {
-      canonical_base: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/',
+      canonical_base: "https://github.com/wowthemesnet/vuepress-theme-mediumish/"
     },
     smoothScroll: true
-  },
-}
+  }
+};

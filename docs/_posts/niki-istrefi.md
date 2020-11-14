@@ -1,27 +1,17 @@
 ---
 title: 'Niki Istrefi'
-date: '2018-09-21T08:57:46+02:00'
+date: 2018-09-21
 status: publish
 permalink: /niki-istrefi
-author: null
-excerpt: ''
-type: post
-id: 109
-thumbnail: ../../uploads/2018/11/1dbe5757251453.59ce41be4ebde2-150x150.jpg
+author: Alice Dini
+featuredimg: /assets/img/1dbe5757251453.59ce41be4ebde2.jpg
 category:
     - Artisti
-tag:
+tags:
     - Danimarca
     - Techno
-post_format: []
-timeline_notification:
-    - '1537533921'
-geo_latitude:
-    - '55.6760968'
-geo_longitude:
-    - '12.5683372'
 ---
-![](../../uploads/2018/11/1dbe5757251453.59ce41be4ebde2.jpg)
+![](/assets/img/1dbe5757251453.59ce41be4ebde2.jpg)
 
 Di **Niki Istrefi** si hanno ben poche notizie, sappiamo infatti che è di Copenaghen ed è il co-fondatore dell’etichetta di musica techno **EUROMANTIC**, per la quale ha pubblicato un EP nel 2017, *EUROMANTIC001*, composto da quattro brani techno ipnotici.
 

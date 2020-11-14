@@ -1,24 +1,18 @@
 ---
 title: Macri
-date: '2018-09-21T15:09:00+02:00'
+date: 2018-09-21
 status: publish
 permalink: /macri
-author: null
-excerpt: ''
-type: post
-id: 146
-thumbnail: ../../uploads/2018/09/37186271_633288820369094_8808422958486781952_n-150x150.jpg
+author: Alice Dini
+featuredimg: /assets/img/37186271_633288820369094_8808422958486781952_n.jpg
 category:
     - Artisti
-tag:
+tags:
     - Electro
     - Experimental
     - Techno
-post_format: []
-timeline_notification:
-    - '1537537051'
 ---
-![37186271_633288820369094_8808422958486781952_n](http://bottleofmusic.000webhostapp.com/wp-content/uploads/2018/09/37186271_633288820369094_8808422958486781952_n.jpg?w=300)
+![](/assets/img/37186271_633288820369094_8808422958486781952_n.jpg)
 
 > **Lion Macri** was born on the planet 094013, in the constellation of pleyades. He is a time traveler who has gone through many historical periods, coming into cont<span class="text_exposed_show">act with many important personalities. He is on earth to bring his alien message with his music and his electronic experimentation.</span>
 

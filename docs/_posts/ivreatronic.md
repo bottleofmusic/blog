@@ -1,26 +1,20 @@
 ---
 title: Ivreatronic
-date: '2018-09-28T19:41:57+02:00'
+date: 2018-09-28
 status: publish
 permalink: /ivreatronic
-author: null
-excerpt: ''
-type: post
-id: 157
-thumbnail: ../../uploads/2018/09/26757127_179466612652285_8750641729395243752_o-01-150x150.png
+author: Alice Dini
+featuredimg: /assets/img/26757127_179466612652285_8750641729395243752_o-01.png
 category:
     - Artisti
-tag:
+tags:
     - Dance
     - Electro
     - Italia
     - Ivrea
     - Techno
-post_format: []
-timeline_notification:
-    - '1538335459'
 ---
-![](http://bottleofmusic.000webhostapp.com/wp-content/uploads/2018/09/26757127_179466612652285_8750641729395243752_o-01.png)
+![](/assets/img/26757127_179466612652285_8750641729395243752_o-01.png)
 
 **Ivreatronic** è tante cose. È un collettivo, è un’etichetta discografica, è un evento, è uno stile, è un’idea.
 

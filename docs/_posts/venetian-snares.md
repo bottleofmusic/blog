@@ -1,25 +1,19 @@
 ---
 title: 'Venetian Snares'
-date: '2018-09-18T11:45:49+02:00'
+date: 2018-09-18
 status: publish
 permalink: /venetian-snares
-author: null
-excerpt: ''
-type: post
-id: 107
-thumbnail: ../../uploads/2018/09/venetian-snares-body-image-1454341362-150x150.jpg
+author: Alice Dini
+featuredimg: /assets/img/venetian-snares-body-image-1454341362.jpg
 category:
     - Artisti
-tag:
+tags:
     - Breakcore
     - Canada
     - 'Drum and Bass'
     - IDM
-post_format: []
-timeline_notification:
-    - '1537533698'
 ---
-![venetian-snares-body-image-1454341362](http://bottleofmusic.000webhostapp.com/wp-content/uploads/2018/09/venetian-snares-body-image-1454341362.jpg?w=1024)
+![](/assets/img/venetian-snares-body-image-1454341362.jpg)
 
 **Venetian Snares**, nome d’arte di **Aaron Funk**, è un progetto musicale canadese che tocca e sfuma vari generi, intrecciandoli fra loro. La sua produzione spazia infatti dalla drum and bass, alla breakcore, all’IDM.
 
