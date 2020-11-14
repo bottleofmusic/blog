@@ -1,23 +1,24 @@
 ---
-title: 'Movement Torino Music Festival 2018'
-date: '2018-10-04T00:58:34+02:00'
+title: Movement Torino Music Festival 2018
+date: 2018-10-04T00:58:34+02:00
 status: publish
-permalink: /movement-torino-music-festival-2018
-author: null
+permalink: "/movement-torino-music-festival-2018"
+author: 
 excerpt: ''
 type: post
 id: 170
-thumbnail: ../../uploads/2018/10/movement-torino-music-festival-png-150x150.jpg
+thumbnail: "../../uploads/2018/10/movement-torino-music-festival-png-150x150.jpg"
 category:
-    - Articoli
+- Articoli
 tag:
-    - Festival
-    - Italia
-    - 'Movement Torino Music Festival'
-    - Playlist
+- Festival
+- Italia
+- Movement Torino Music Festival
+- Playlist
 post_format: []
 timeline_notification:
-    - '1538728146'
+- '1538728146'
+
 ---
 ![movement-torino-music-festival.png](http://bottleofmusic.000webhostapp.com/wp-content/uploads/2018/10/movement-torino-music-festival-png.jpg?w=300)
 
@@ -29,17 +30,17 @@ La line-up di quest’anno, come anche degli anni precedenti, è ricca di import
 
 Le due date chiave al Lingotto Fiere, il 12 e il 13 Ottobre 2018, avranno infatti l’onore di ospitare diversi artisti affermati che abbiamo cercato di raccogliere in due playlist, una per serata, che possono servire a farsi un’idea di ciò che sarà il festival.
 
-Venerdì 12 ottobre saliranno sui due palchi del Lingotto <span style="color: #4b4f56; font-family: Roboto,;">**Amelie Lens**, **Charlotte De Witte**, **Ellen Allien**, **Francesco Tristano**, **Joseph Capriati**, **Nina Kraviz**, **Solomun** e **Waajeed**</span>.
+Venerdì 12 ottobre saliranno sui due palchi del Lingotto **Amelie Lens**, **Charlotte De Witte**, **Ellen Allien**, **Francesco Tristano**, **Joseph Capriati**, **Nina Kraviz**, **Solomun** e **Waajeed**.
 
 \[mixcloud http://www.mixcloud.com/bottleofmusic/movement-2018-mix-1210/ width=100% height=120 light=1\]
 
-Il 13 seguiranno <span style="color: #4b4f56; font-family: Roboto,;">**Cosmo**, **Derrick May**, **DJ Bone**, **Ilario Alicante**, **Jon Hopkins**, **KiNK**, **Levon Vincent**, **Lone**, **The Martinez Brothers** e **Underground Resistance (**</span>**Depth Charge)**
+Il 13 seguiranno **Cosmo**, **Derrick May**, **DJ Bone**, **Ilario Alicante**, **Jon Hopkins**, **KiNK**, **Levon Vincent**, **Lone**, **The Martinez Brothers** e **Underground Resistance (Depth Charge)**
 
 \[mixcloud http://www.mixcloud.com/bottleofmusic/movement-2018-mix-1310/ width=100% height=120 light=1\]
 
 **Tracklist 12 ottobre**
 
-<table><tbody><tr><td colspan="1" rowspan="1">Waajeed</td><td colspan="1" rowspan="1">Strength (feat. Ideeyah)</td></tr><tr><td colspan="1" rowspan="1">Nina Kraviz</td><td colspan="1" rowspan="1">Pain In The Ass – Original Mix</td></tr><tr><td colspan="1" rowspan="1">Solomun</td><td colspan="1" rowspan="1">Friends</td></tr><tr><td colspan="1" rowspan="1">Francesco Tristano</td><td colspan="1" rowspan="1">Pacific FM</td></tr><tr><td colspan="1" rowspan="1">Amelie Lens &amp; Farrago</td><td colspan="1" rowspan="1">Purge</td></tr><tr><td colspan="1" rowspan="1">Ellen Allien</td><td colspan="1" rowspan="1">Trigger – Original Mix</td></tr><tr><td colspan="1" rowspan="1">Joseph Capriati</td><td colspan="1" rowspan="1">Deep Thoughts</td></tr><tr><td colspan="1" rowspan="1">Charlotte De Witte</td><td colspan="1" rowspan="1">Sehnsucht</td></tr></tbody></table>
+<table><tbody><tr><td colspan="1" rowspan="1">Waajeed</td><td colspan="1" rowspan="1">Strength (feat. Ideeyah)</td></tr><tr><td colspan="1" rowspan="1">Nina Kraviz</td><td colspan="1" rowspan="1">Pain In The Ass – Original Mix</td></tr><tr><td colspan="1" rowspan="1">Solomun</td><td colspan="1" rowspan="1">Friends</td></tr><tr><td colspan="1" rowspan="1">Francesco Tristano</td><td colspan="1" rowspan="1">Pacific FM</td></tr><tr><td colspan="1" rowspan="1">Amelie Lens & Farrago</td><td colspan="1" rowspan="1">Purge</td></tr><tr><td colspan="1" rowspan="1">Ellen Allien</td><td colspan="1" rowspan="1">Trigger – Original Mix</td></tr><tr><td colspan="1" rowspan="1">Joseph Capriati</td><td colspan="1" rowspan="1">Deep Thoughts</td></tr><tr><td colspan="1" rowspan="1">Charlotte De Witte</td><td colspan="1" rowspan="1">Sehnsucht</td></tr></tbody></table>
 
 **Tracklist 13 ottobre**
 
