@@ -1,16 +1,12 @@
 ---
-label: Page
+label: Pagina
 hide_body: false
+display_field: title
 fields:
 - name: title
   type: text
   config:
     required: false
   label: title
-- name: description
-  type: text
-  config:
-    required: false
-  label: description
 pages:
 - docs/about.md
