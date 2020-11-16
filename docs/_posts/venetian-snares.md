@@ -1,20 +1,16 @@
 ---
 title: 'Venetian Snares'
 date: 2018-09-18
-status: publish
-permalink: /venetian-snares
+published: true
 author: Alice Dini
 featuredimg: /assets/img/venetian-snares-body-image-1454341362.jpg
-category:
-    - Artisti
+category: artisti
 tags:
     - Breakcore
     - Canada
     - 'Drum and Bass'
     - IDM
 ---
-![](/assets/img/venetian-snares-body-image-1454341362.jpg)
-
 **Venetian Snares**, nome d’arte di **Aaron Funk**, è un progetto musicale canadese che tocca e sfuma vari generi, intrecciandoli fra loro. La sua produzione spazia infatti dalla drum and bass, alla breakcore, all’IDM.
 
 La sua produzione si divide in più periodi. Le prime produzioni, totalmente indipendenti, si affacciano sul mondo della musica nel 1998, dopodiché inizia a collaborare con molteplici etichette negli anni a seguire, in particolare con la **Planet Mu**, con la quale pubblica due dei suoi album più conosciuti *Rossz csillag alatt született* e *Meathole*, entrambi nel 2005.

@@ -1,22 +1,16 @@
 ---
 title: 'Di tutte le cose che abbiamo perso e perderemo'
 date: 2019-03-01
-status: publish
-permalink: /di-tutte-le-cose-che-abbiamo-perso-e-perderemo
+published: true
 author: Alice Dini
 featuredimg: /assets/img/a3328789930_10.jpg
-category:
-    - Recensioni
+category: recensioni
 tags:
-    - 'Di tutte le cose che abbiamo perso e perderemo'
     - Emocore
     - Italia
     - Quercia
-    - recensioni
     - Sardegna
 ---
-![](/assets/img/a3328789930_10.jpg)
-
 *Di tutte le cose che abbiamo perso e perderemo* è il primo album dei **Quercia**, totalmente autoprodotto, uscito quasi di sorpresa, senza troppi annunci, il 20 febbraio 2019, a distanza di tre anni dal loro primo EP del 2016, *Non è vero che non ho più l’età*.
 
 Come è ben intuibile dal titolo, l’album racconta di tutto ciò che perdiamo, abbiamo perduto e perderemo e del senso di spaesamento e rassegnazione di fronte alla consapevolezza dell’irrimediabilità della perdita. Lo fa con una grande presa emotiva dal primo all’ultimo brano, tutti molto veloci e meno melodici rispetto a quelli dell’ep precedente, ma assolutamente godibili anche per un pubblico non troppo vicino al mondo dell’emocore.

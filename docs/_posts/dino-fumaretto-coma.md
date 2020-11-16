@@ -1,12 +1,10 @@
 ---
 title: 'Dino Fumaretto e il suo coma pirandelliano'
 date: 2019-03-10
-status: publish
-permalink: /dino-fumaretto-coma
+published: true
 author: Alice Dini
 featuredimg: /assets/img/1515583501165.jpg
-category:
-    - Articoli
+category: recensioni
 tags:
     - 'Dino Fumaretto'
     - Firenze
@@ -16,8 +14,6 @@ tags:
     - Post-Punk
     - Punk
 ---
-![](/assets/img/1515583501165.jpg)
-
 Ieri sera ho assistito quasi per caso alla terza data del tour di **Dino Fumaretto** a Firenze, insieme a **IOSONOUNCANE**, **Rocco Marchi**, **Simone Cavina** e **Francesca Baccolini**, e mi sono ritrovata a chiedermi dove fossi e come ci fossi arrivata.
 
 **Dino Fumaretto** è colui che scrive le canzoni, **Elia Billoni** l’interprete “ufficiale” che arrangia e porta alla luce i pezzi insieme ad altri musicisti. Eppure i due sono la stessa persona, separati intrinsecamente, ma legati in modo indissolubile.

@@ -1,12 +1,10 @@
 ---
 title: 'Tante Anne'
 date: 2018-12-12
-status: publish
-permalink: /tante-anne
+published: true
 author: Alice Dini
 featuredimg: /assets/img/1492082416502-tante-anna-2017-1.jpg
-category:
-    - Artisti
+category: artisti
 tags:
     - Darkwave
     - Emo
@@ -15,8 +13,6 @@ tags:
     - Shitgaze
     - Shoegaze
 ---
-![](/assets/img/1492082416502-tante-anna-2017-1.jpg)
-
 I **Tante Anna** nascono a Pesaro dall’unione dell’illustratore **Alessandro Baronciani** e **Thomas Koppen**, amici da una vita, una chitarra, un basso elettrico e una batteria elettronica.
 
 Iniziano a pubblicare nel 2014, autoproducendosi, collaborano poi nel 2016 con **Havah** e **Edible Woman** e nel 2017 esce il loro primo album *TA*, per **To Lose La Track**. Il loro sound è già ben delineato all’interno di un mondo oscuro, spaziano infatti tra darkwave, shoegaze, shitgaze e emo.

@@ -1,12 +1,10 @@
 ---
 title: SOPHIE
 date: 2019-02-27
-status: publish
-permalink: /sophie
+published: true
 author: Alice Dini
 featuredimg: /assets/img/sophielive.jpg
-category:
-    - Artisti
+category: artisti
 tags:
     - Glasgow
     - Glitch
@@ -17,8 +15,6 @@ tags:
     - Scozia
     - SOPHIE
 ---
-![](/assets/img/sophielive.jpg)
-
 **SOPHIE**, pseudonimo di **Sophie Xeon**, è una producer di origine scozzese. Attualmente all’interno della scena musicale di Los Angeles è uno dei fenomeni più discussi della Pop Culture.
 
 **SOPHIE** inizia a farsi conoscere fra il 2014 e il 2015, con l’uscita di brani pop/dance sperimentali, dai suoni plastici e sintetici, come *LEMONADE* e *VYZEE* e la sua vicinanza all’etichetta londinese **PC Music**, molto discussa in quegli anni, nonostante avesse già iniziato a produrre a partire dal 2012.

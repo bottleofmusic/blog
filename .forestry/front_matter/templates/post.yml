@@ -2,24 +2,56 @@
 label: Post
 hide_body: false
 fields:
+- name: published
+  type: boolean
+  label: Pubblicato
+  default: false
 - type: text
   name: title
-  label: title
+  label: Titolo
 - type: datetime
   name: date
-  label: date
-- type: text
-  name: author
-  label: author
-- name: tags
+  label: Data
+  config:
+    required: false
+    date_format: dddd, DD MMMM YYYY
+    time_format: HH:mm ZZ
+    export_format: ''
+  default: now
+- name: author
+  label: Autore
+  type: select
+  default: Alice Dini
+  config:
+    required: true
+    options:
+    - Alice Dini
+    - AC
+    source:
+      type: simple
+      section:
+      file:
+      path:
+- name: category
+  label: Categoria
+  type: select
+  default: artisti
+  config:
+    required: true
+    options:
+    - artisti
+    - recensioni
+    source:
+      type: simple
+      section:
+      file:
+      path:
+- name: Tag
   type: tag_list
   default: []
   label: tags
 - name: featuredimg
+  label: Immagine
   type: file
   config:
     maxSize: 64
-  label: featuredimg
-- type: text
-  name: summary
-  label: summary

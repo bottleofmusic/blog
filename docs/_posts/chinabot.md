@@ -1,20 +1,16 @@
 ---
 title: Chinabot e l'emancipazione musicale dell'Asia
 date: 2019-03-11
-status: draft
-permalink: chinabot
-author: Alice Dini
+published: false
+author: AC
 featuredimg: /assets/img/chinabot2-e1552315449360.png
-category:
-    - Articoli
+category: artisti
 tags:
     - Asia
     - Chinabot
     - Collettivo
     - Etichetta
 ---
-![](/assets/img/chinabot2-e1552315449360.png)
-
 > Chinabot is a platform and collective created to change the dialogue surrounding Asian music
 
 **Chinabot** è una piattaforma ed etichetta discografica online creata con lo scopo di riunione e promuovere nella sua multiforme diversità la musica asiatica di ogni genere.

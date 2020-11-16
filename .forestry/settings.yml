@@ -5,15 +5,29 @@ admin_path: admin
 webhook_url: 
 sections:
 - type: directory
-  path: docs/_posts
-  label: Posts
+  path: docs/_posts/artisti
+  label: Artisti
   create: documents
   match: "*.md"
   templates:
   - post
 - type: directory
+  path: docs/_posts/recensioni
+  label: Recensioni
+  create: documents
+  match: "*.md"
+  templates:
+  - post
+- type: directory
+  path: docs/_posts
+  label: Tutti i post
+  create: all
+  match: "**/*.md"
+  templates:
+  - post
+- type: directory
   path: docs
-  label: Pages
+  label: Pagine
   create: documents
   match: "*.md"
   templates:

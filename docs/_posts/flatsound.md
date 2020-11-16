@@ -1,12 +1,10 @@
 ---
 title: Flatsound
 date: 2019-03-13
-status: publish
-permalink: /flatsound
+published: true
 author: Alice Dini
 featuredimg: /assets/img/IMG_2005.jpg
-category:
-    - Artisti
+category: artisti
 tags:
     - Alternative
     - California
@@ -15,8 +13,6 @@ tags:
     - Lo-fi
     - 'Mitch Welling'
 ---
-![](/assets/img/IMG_2005.jpg)
-
 **Flatsound** è il progetto solista di **Mitch Welling**. Mitch non appare molto in pubblico se non tramite alcune foto e le righe che scrive di sé nel suo blog.
 
 Il nome del progetto è perfetto a descrivere le sonorità lo-fi che abbracciano le canzoni scritte e suonate da **Mitch**, nella sua stanza, in un appartamento del sud della California, dove **Mitch** racconta di essere rimasto chiuso per dieci anni, a partire dal 2008, a causa di una grave agorafobia. Ciò che è trapelato da quell’appartamento, come luce dalle persiane di prima mattina, sono delle sferzate di emozioni, sensazioni e pensieri molto intimi che vengono fuori dai testi delle canzoni.

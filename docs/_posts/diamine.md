@@ -1,12 +1,10 @@
 ---
 title: Diamine
 date: 2019-01-07
-status: publish
-permalink: /diamine
+published: true
 author: Alice Dini
 featuredimg: /assets/img/15482538387091877643047-01-02.png
-category:
-    - Artisti
+category: artisti
 tags:
     - Diamine
     - Electro-pop
@@ -14,8 +12,6 @@ tags:
     - Italia
     - 'Maciste Dischi'
 ---
-![](/assets/img/15482538387091877643047-01-02.png)
-
 **Diamine** è un progetto lanciato da **Maciste Dischi** e poi tornato, almeno per adesso, nell’ombra. Apparso sulla scena a fine 2017 con il singolo *Da qualche parte*, ha catturato l’attenzione di chi, curioso dell’ennesimo artista lanciato da **Maciste Dischi**, sì è ritrovato ad ascoltare qualcosa di nuovo rispetto al panorama che propone solitamente la nota etichetta.
 
 **Diamine** è infatti un progetto che tocca corde internazionali, avvicinandosi molto al mondo electro-pop e French Touch, allontanandosi invece dal panorama indie (o it-pop) italiano. Usciranno poi altri due singoli, *Così via* e *Diamine*, e il gruppo farà qualche data invernale e un breve tour nell’estate 2018.  

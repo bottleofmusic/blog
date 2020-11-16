@@ -1,23 +1,18 @@
 ---
 title: 'La Monarchia'
 date: 2019-04-17
-status: publish
-permalink: /la-monarchia
+published: true
 author: Alice Dini
 featuredimg: /assets/img/1009530_160399994141911_1245892016_o.jpg
-category:
-    - Artisti
+category: artisti
 tags:
     - 'Alternative Rock'
     - Italia
     - 'La Monarchia'
-    - 'Nuovo Singolo'
     - Poggibonsi
     - Rock
     - Toscana
 ---
-![](/assets/img/1009530_160399994141911_1245892016_o.jpg)
-
 **La Monarchia** era un gruppo quasi scomparso poco prima dell’annuncio, totalmente a sorpresa, dell’uscita del nuovo singolo. Il 16 Aprile viene infatti annunciato l’uscita del nuovo singolo del 18 Aprile 2019, con un annuncio ufficiale sulla pagina facebook, che aveva subito qualche movimento nei giorni precedenti dopo tre anni di silenzio.
 
 Si notano fin da subito alcuni cambiamenti nella pagina, il genere viene definito post ITPOP invece che rock, com’era in precedenza, e appare una descrizione del gruppo, che fa intuire dell’ironia.

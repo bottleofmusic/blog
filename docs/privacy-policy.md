@@ -1,11 +1,10 @@
 ---
 title: 'Privacy Policy'
-permalink: /privacy-policy
 ---
 Chi siamo
 ---------
 
-L’indirizzo del nostro sito web è: http://bottleofmusic.000webhostapp.com.
+L’indirizzo del nostro sito web è: http://bottleofmusic.it.
 
 Quali dati personali raccogliamo e perché li raccogliamo
 --------------------------------------------------------

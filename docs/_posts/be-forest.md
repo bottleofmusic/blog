@@ -1,12 +1,10 @@
 ---
 title: 'Be Forest'
 date: 2019-01-15
-status: publish
-permalink: /be-forest
+published: true
 author: Alice Dini
 featuredimg: /assets/img/Be-Forest-Press-Photo-by-Luca-Sorbini.jpg
-category:
-    - Artisti
+category: artisti
 tags:
     - 'Be Forest'
     - 'Dream Pop'
@@ -15,7 +13,6 @@ tags:
     - Pesaro
     - Shoegaze
 ---
-![](/assets/img/Be-Forest-Press-Photo-by-Luca-Sorbini.jpg)
 
 I **Be Forest** sono un trio di Pesaro, composto da **Erica Terenzi** alla voce, alla batteria e all’elettronica, **Costanza Delle Rose** alla voce e al basso e **Nicola Lampredi** alla chitarra, e, fra il 2014 e il 2015, collaborano con **Lorenzo Badioli**, che si occupa dei synth.
 

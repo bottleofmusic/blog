@@ -1,47 +1,51 @@
 <template>
-  <div id="mobile-header">
-    <div class="mobile-header-bar">
-      <div class="mobile-header-title">
-        <NavLink link="/" class="mobile-home-link navbar-brand"><img :src="($withBase)($themeConfig.logo)"> {{ $site.title }} </NavLink>
-        <component
-          :is="isOpen ? 'XIcon' : 'MenuIcon'"
-          @click="$emit('toggle-sidebar')"
-        />
-      </div>
-      <div class="mobile-menu-wrapper" :class="{ open: isOpen }">
-        <hr class="menu-divider" />
-        <ul v-if="$themeConfig.nav" class="mobile-nav">
-          <li
-            v-for="item in $themeConfig.nav"
-            :key="item.text"
-            class="mobile-nav-item"
-          >
-            <NavLink :link="item.link">{{ item.text }}</NavLink>
-          </li>
-          <li class="mobile-nav-item">
-            <Feed />
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
+	<div id="mobile-header">
+		<div class="mobile-header-bar">
+			<div class="mobile-header-title">
+				<NavLink class="mobile-home-link navbar-brand" link="/"
+					><img :src="$withBase($themeConfig.logo)" />
+					{{ $site.title }}
+				</NavLink>
+				<component
+					:is="isOpen ? 'XIcon' : 'MenuIcon'"
+					@click="$emit('toggle-sidebar')"
+				/>
+			</div>
+			<div :class="{ open: isOpen }" class="mobile-menu-wrapper">
+				<hr class="menu-divider" />
+				<ul v-if="$themeConfig.nav" class="mobile-nav">
+					<li
+						v-for="item in $themeConfig.nav"
+						:key="item.text"
+						class="mobile-nav-item"
+					>
+						<NavLink :link="item.link">{{ item.text }}</NavLink>
+					</li>
+					<li class="mobile-nav-item">
+						<Feed />
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
 </template>
 
 <script>
 import { MenuIcon, XIcon } from 'vue-feather-icons'
 import Feed from './Feed'
+
 export default {
-  components: {
-    MenuIcon,
-    XIcon,
-    Feed,
-  },
-  props: {
-    isOpen: {
-      type: Boolean,
-      required: true,
-    },
-  },
+	components: {
+		MenuIcon,
+		XIcon,
+		Feed,
+	},
+	props: {
+		isOpen: {
+			type: Boolean,
+			required: true,
+		},
+	},
 }
 </script>
 
@@ -88,7 +92,7 @@ export default {
   max-height 450px
   transition 0.3s ease
 
-@media (min-width: $MQMobile)
+@media (min-width: $MQNarrow)
   #mobile-header
     display none
 </style>

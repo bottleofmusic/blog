@@ -1,12 +1,10 @@
 ---
 title: Ivreatronic
 date: 2018-09-28
-status: publish
-permalink: /ivreatronic
-author: Alice Dini
+published: true
+author: AC
 featuredimg: /assets/img/26757127_179466612652285_8750641729395243752_o-01.png
-category:
-    - Artisti
+category: artisti
 tags:
     - Dance
     - Electro
@@ -14,8 +12,6 @@ tags:
     - Ivrea
     - Techno
 ---
-![](/assets/img/26757127_179466612652285_8750641729395243752_o-01.png)
-
 **Ivreatronic** è tante cose. È un collettivo, è un’etichetta discografica, è un evento, è uno stile, è un’idea.
 
 Andando per ordine, **Ivreatronic** appare a inizio aprile 2017, mentre il primo evento ufficiale è il 6 maggio dello stesso anno.

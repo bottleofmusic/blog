@@ -1,20 +1,16 @@
 ---
 title: 'Elliot Moss'
 date: 2018-10-03
-status: publish
-permalink: /elliot-moss
+published: true
 author: Alice Dini
 featuredimg: /assets/img/elliotmoss10.jpg
-category:
-    - Artisti
+category: artisti
 tags:
     - Alternative
     - Electro-pop
     - Indie
     - USA
 ---
-![](/assets/img/elliotmoss10.jpg)
-
 **Elliot Moss** è un polistrumentista e compositore newyorkese. L’album di debutto *Highspeeds*, del 2015, lo inserisce fin da subito in un contesto electro-indie, che unisce l’utilizzo di strumenti elettronici al vecchio “chitarra e voce” caratteristico del mondo indie cantautorale, che dà infatti molta importanza anche alla dimensione testuale, caratteristica che possiamo ritrovare molto forte nei brani di **Elliot Moss.**
 
 Nel 2017 esce *Boomerang*, dove la voce si accompagna ai synth, perdendo la dimensione acustica ma assumendo una dimensione sempre più vicina al panorama electro-pop alternative anglosassone.

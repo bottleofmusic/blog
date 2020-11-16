@@ -1,12 +1,10 @@
 ---
 title: 'Amnesia Scanner'
 date: 2019-01-28
-status: publish
-permalink: /amnesia-scanner
+published: true
 author: Alice Dini
 featuredimg: /assets/img/15622891471_906cabe09f_b.jpg
-category:
-    - Artisti
+category: artisti
 tags:
     - 'Amnesia Scanner'
     - Berlino
@@ -17,8 +15,6 @@ tags:
     - Glitch
     - 'Musica Sperimentale'
 ---
-![](/assets/img/15622891471_906cabe09f_b.jpg)
-
 **Amnesia Scanner** è un duo finlandese che lavora a Berlino composto da **Ville Haimala** e **Martti Kalliala**.
 
 Il duo fa il suo ingresso nella scena elettronica sperimentale tra il 2015 e il 2016 con il singolo *AS Truth* e l’EP, *AS*, da subito pubblicati da **Young Turks**. Si definisce come progetto audiovisivo, dove grafiche, voci e suoni destrutturati si completano tra loro e competono nel ricreare ambienti impersonali, freddi, a tratti gelidi, figli dell’era digitale e dell’alienazione.

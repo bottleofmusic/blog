@@ -1,12 +1,10 @@
 ---
 title: 'Autumn Comets'
 date: 2019-02-20
-status: publish
-permalink: /autumn-comets
+published: true
 author: Alice Dini
 featuredimg: /assets/img/AUTUMN-COMETS_Camden_Peris.jpg
-category:
-    - Artisti
+category: artisti
 tags:
     - 'Alternative Rock'
     - Folk
@@ -14,7 +12,6 @@ tags:
     - Madrid
     - Spagna
 ---
-![](/assets/img/AUTUMN-COMETS_Camden_Peris.jpg)
 
 **Autumn Comets** è un gruppo, formato nel 2008, da Julián P. Campesino (chitarra e voce), Pablo P. Campesino (batteria), Emilio Lorente (chitarra), e Gonzalo Bautista (Tastiere e elettronica), a cui si sono uniti Manuel Moreno (viola e arrangiamenti) nel 2009 e Mario Perez (basso) nel 2012.
 

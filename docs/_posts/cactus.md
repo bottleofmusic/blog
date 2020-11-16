@@ -1,12 +1,10 @@
 ---
 title: 'Cactus?'
 date: 2019-04-03
-status: publish
-permalink: /cactus
+published: true
 author: Alice Dini
 featuredimg: /assets/img/52774242_2364707830229015_706363713208188928_o.jpg
-category:
-    - Artisti
+category: artisti
 tags:
     - Alternative
     - 'Cactus?'
@@ -17,7 +15,6 @@ tags:
     - 'Psychedelic Rock'
     - Vicenza
 ---
-![](/assets/img/52774242_2364707830229015_706363713208188928_o.jpg)
 
 **Cactus?** è un progetto indie rock (o superfast indie dance come si autodefiniscono) lo-fi nato nel vicentino nel 2014. Il primo EP, omonimo al progetto, esce nel 2015 poco prima che il gruppo apra il concerto degli inglesi **Menace Beach**.
 

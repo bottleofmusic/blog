@@ -1,20 +1,16 @@
 ---
 title: Ploho
 date: 2019-02-13
-status: publish
-permalink: /ploho
+published: true
 author: Alice Dini
 featuredimg: /assets/img/23331431_756834844441268_1429452254701542397_o-e1550066909480.jpg
-category:
-    - Artisti
+category: artisti
 tags:
     - Darkwave
     - Ploho
     - Post-Punk
     - Russia
 ---
-![](/assets/img/23331431_756834844441268_1429452254701542397_o-e1550066909480.jpg)
-
 **Ploho** è una band russa attiva dal 2014. La loro discografia, prodotta in parte da **Sierpien Records** e in parte autoprodotta, è frutto dell'”onda fredda del punk post siberiano”, di influenze post punk statunitensi e sonorità graffianti della musica urban russa.
 
 Il gruppo, originario di Новосибирск (**Novosibirsk**) si ripropone di creare scenari post sovietici ancora attuali nella loro vita alienata dalla routine e dai mezzi di comunicazione.

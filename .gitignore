@@ -1,6 +1,6 @@
 node_modules
 .temp
 dist
-yarn.lock
 .DS_Store
 .idea
+public

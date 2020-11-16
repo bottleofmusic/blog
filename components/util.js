@@ -4,35 +4,36 @@ export const endingSlashRE = /\/$/
 export const outboundRE = /^(https?:|mailto:|tel:)/
 
 export function normalize(path) {
-  return decodeURI(path)
-    .replace(hashRE, '')
-    .replace(extRE, '')
+	return decodeURI(path)
+		.replace(hashRE, '')
+		.replace(extRE, '')
 }
 
 export function isExternal(path) {
-  return outboundRE.test(path)
+	return outboundRE.test(path)
 }
 
 export function isMailto(path) {
-  return /^mailto:/.test(path)
+	return /^mailto:/.test(path)
 }
 
 export function isTel(path) {
-  return /^tel:/.test(path)
+	return /^tel:/.test(path)
 }
 
 export function ensureExt(path) {
-  if (isExternal(path)) {
-    return path
-  }
-  const hashMatch = path.match(hashRE)
-  const hash = hashMatch ? hashMatch[0] : ''
-  const normalized = normalize(path)
+	if (!path) return ''
+	if (isExternal(path)) {
+		return path
+	}
+	const hashMatch = path.match(hashRE)
+	const hash = hashMatch ? hashMatch[0] : ''
+	const normalized = normalize(path)
 
-  if (endingSlashRE.test(normalized)) {
-    return path
-  }
-  return normalized + '.html' + hash
+	if (endingSlashRE.test(normalized)) {
+		return path
+	}
+	return normalized + '.html' + hash
 }
 
 /*
@@ -43,15 +44,15 @@ export function ensureExt(path) {
  * @returns {Element}
  */
 export function findContainerInVm(ref, vm, def) {
-  if (!ref) return def
-  let container
-  let parent = vm
-  while ((parent = parent.$parent) && !container) {
-    container = parent.$refs[ref]
-  }
-  // Ensure it's html element (ref could be component)
-  if (container && container.$el) {
-    container = container.$el
-  }
-  return container || def
+	if (!ref) return def
+	let container
+	let parent = vm
+	while ((parent = parent.$parent) && !container) {
+		container = parent.$refs[ref]
+	}
+	// Ensure it's html element (ref could be component)
+	if (container && container.$el) {
+		container = container.$el
+	}
+	return container || def
 }

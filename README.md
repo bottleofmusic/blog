@@ -5,7 +5,7 @@ This is a free VuePress Bootstrap Blogging Theme, Medium styled, fully featured:
 
 [View Demo](https://wowthemesnet.github.io/vuepress-theme-mediumish/) | [View Documentation](https://bootstrapstarter.com/bootstrap-templates/vuepress-theme-mediumish/)
 
-![](https://wowthemesnet.github.io/vuepress-theme-mediumish/assets/img/screenshot.jpg)
+![mediumish vuepress blogging theme](https://wowthemesnet.github.io/vuepress-theme-mediumish/assets/img/screenshot.jpg)
 
 ## Content Management
 
@@ -15,7 +15,7 @@ This is a free VuePress Bootstrap Blogging Theme, Medium styled, fully featured:
 
 Import in [Forestry](https://forestry.io) to be able to edit and preview your posts before publishing.
 
-![](docs/.vuepress/public/assets/img/forestry-cms-mediumsih.jpg)
+![Edit in Forestry CMS](docs/.vuepress/public/assets/img/forestry-cms-mediumsih.jpg)
 
 ## Development
 
@@ -30,6 +30,6 @@ yarn start
 
 Import your repository in [Vercel](http://vercel.com) and deploy for free
 
-[![](https://vercel.com/import/git)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git)
 
 

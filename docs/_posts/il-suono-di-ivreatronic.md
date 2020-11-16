@@ -1,17 +1,17 @@
 ---
 title: 'Il Suono Di Ivreatronic'
 date: 2018-05-28
-status: publish
-permalink: /il-suono-di-ivreatronic
-author: Alice Dini
+published: true
+author: AC
 featuredimg: /assets/img/a1206536827_10-e1524150917777.jpg
-category:
-    - Recensioni
+category: recensioni
 tags:
     - Italia
+    - Ivreatronic
+    - Ivrea
+    - Cosmo
+    - Etichetta
 ---
-![](/assets/img/a1206536827_10-e1524150917777.jpg)
-
 ***IL SUONO DI IVREA*** è la prima uscita della neonata etichetta **[Ivreatronic](http://localhost/bom-wordpress/ivreatronic)**, nata dall’omonimo “collettivo” di artisti eporediesi, ideatori e fautori dell’altrettanto omonima serie di serate che ormai da un anno infiammano le notti di **Ivrea**.
 
 Questa compilation di brani inediti di soli artisti “ivreatronici”, come si autodefiniscono, sembra voler essere una sorta di manifesto non dichiarato di quello che si potrebbe definire “lo stile di Ivrea”. Dopotutto quale luogo più adatto a sviluppare una scena elettronica così scatenata e dinamica, se non la piccola città piemontese dal grande passato industriale, sede dell’ormai defunta **Olivetti**.

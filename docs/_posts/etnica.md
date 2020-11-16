@@ -1,11 +1,9 @@
 ---
 title: Etnica
 date: 2019-03-11
-status: draft
-permalink: etnica
+published: false
 author: Alice Dini
-category:
-    - 'Senza categoria'
+category: artisti
 tags: []
 ---
 Etnica è un progetto creato da Carlo Paterno, Max Lanfranconi, Maurizio Begotti, e Andrea Rizzo all’inizio degli anni novanta.

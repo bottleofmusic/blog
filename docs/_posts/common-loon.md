@@ -1,12 +1,10 @@
 ---
 title: 'Common Loon'
 date: 2018-09-19
-status: publish
-permalink: /common-loon
-author: Alice Dini
+published: true
+author: AC
 featuredimg: /assets/img/10572197_414733598687106_1462034200825397411_o3.jpg
-category:
-    - Artisti
+category: artisti
 tags:
     - Indie
     - 'Psychedelic pop'
@@ -14,7 +12,6 @@ tags:
     - Rock
     - USA
 ---
-![](/assets/img/10572197_414733598687106_1462034200825397411_o3.jpg)
 
 I **Common Loon** sono una band semisconosciuta formata da “Robert e Matt”, due amici di **Champaign**, Illinois, città universitaria del **Midwest**, non lontana da Chicago.
 

@@ -1,19 +1,15 @@
 ---
 title: 'Död Mark'
 date: 2018-09-12
-status: publish
-permalink: /dod-mark
+published: true
 author: Alice Dini
-featuredimg: /assets/img/avatars-000276813947-7keujy-t500x500-e1536758427291.jpg
-category:
-    - Artisti
+featuredimg: /assets/img/dodmark-edit.jpg
+category: artisti
 tags:
     - Hardcore
     - Post-Punk
     - Svezia
 ---
-![](/assets/img/avatars-000276813947-7keujy-t500x500-e1536758427291.jpg)
-
 **Död Mark** è un progetto parallelo del rapper svedese **Yung Lean**, frontman dei **Sad Boys**, e dal dj e producer **Yung Gud**.
 
 Il progetto, definito da principio come techno-punk “mysterious and insane”, fa inizialmente capolino sulle scene con alcuni singoli: il primo pubblicato, nel 2014, è *Vit Spirit*. Con la pubblicazione di altri tre singoli e successivamente l’uscita dell’album *Drabbad av sjukdom* nel 2016, la dimensione del progetto si fa più chiara e si inserisce all’interno di un contesto post-punk hardcore.

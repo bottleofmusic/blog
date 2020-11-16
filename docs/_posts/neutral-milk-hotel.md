@@ -1,12 +1,10 @@
 ---
 title: 'Neutral Milk Hotel'
 date: 2019-03-06
-status: publish
-permalink: /neutral-milk-hotel
+published: true
 author: Alice Dini
 featuredimg: /assets/img/neutral.jpg
-category:
-    - Artisti
+category: artisti
 tags:
     - Alternative
     - 'Neutral Milk Hotel'
@@ -14,8 +12,6 @@ tags:
     - Rock
     - USA
 ---
-![](/assets/img/neutral.jpg)
-
 I **Neutral Milk Hotel** sono un gruppo indie rock alternative statunitense fondato da Jeff Magnum insieme a Jeremy Barnes, Scott Spillane e Julian Koster. Il gruppo, dalle chiare influenze folk sia nella scelta degli strumenti sia nello stile dei brani, esordisce nel 1993 con *Hype City Soundtrack*.
 
 Nel 1995 esce un secondo album *On Avery Island*, ma è nel 1998 che esce il loro album più conosciuto e discusso: *In The Aeroplane Over The Sea*.

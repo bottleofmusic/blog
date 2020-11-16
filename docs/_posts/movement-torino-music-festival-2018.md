@@ -1,21 +1,17 @@
 ---
 title: Movement Torino Music Festival 2018
 date: 2018-10-04T00:58:34+02:00
-status: publish
-permalink: "/movement-torino-music-festival-2018"
+published: true
 author: Alice Dini
 featuredimg: "/assets/img/movement-torino-music-festival-png.jpg"
-category:
-- Articoli
+category: recensioni
 tags:
-- Festival
-- Italia
-- Movement Torino Music Festival
-- Playlist
+    - Festival
+    - Italia
+    - Movement Torino Music Festival
+    - Playlist
 
 ---
-![](/assets/img/movement-torino-music-festival-png.jpg)
-
 Il **Movement Torino Music Festival** inizia ad essere ormai un’istituzione fra i festival di musica elettronica italiani.
 
 Ad ormai 12 anni dalla prima edizione, avvenuta nel lontano 2006 con l’ideale alleanza con il **Detroit Music Festival**, in occasione delle Olimpiadi invernali che si svolsero proprio a Torino, il festival torinese conferma il suo affermarsi fra i festival di musica elettronica indoor più importanti a livello internazionale.

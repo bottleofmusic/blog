@@ -1,19 +1,15 @@
 ---
 title: Macri
 date: 2018-09-21
-status: publish
-permalink: /macri
+published: true
 author: Alice Dini
 featuredimg: /assets/img/37186271_633288820369094_8808422958486781952_n.jpg
-category:
-    - Artisti
+category: artisti
 tags:
     - Electro
     - Experimental
     - Techno
 ---
-![](/assets/img/37186271_633288820369094_8808422958486781952_n.jpg)
-
 > **Lion Macri** was born on the planet 094013, in the constellation of pleyades. He is a time traveler who has gone through many historical periods, coming into cont<span class="text_exposed_show">act with many important personalities. He is on earth to bring his alien message with his music and his electronic experimentation.</span>
 
 Questo è più o meno ciò che sappiamo di questo artista, o almeno ciò che lui dice di sé stesso. Nell’estate 2018 **Macri** si aggira per le vie e per i parchi di Berlino, stupendo i passanti e i curiosi che si fermano ad ascoltare il suo progetto elettronico sperimentale.

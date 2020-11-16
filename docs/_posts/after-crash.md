@@ -1,19 +1,16 @@
 ---
 title: 'After Crash'
 date: 2018-10-04
-status: publish
-permalink: /after-crash
+published: true
 author: Alice Dini
 featuredimg: /assets/img/0001515305_10.jpg
-category:
-    - Artisti
+category: artisti
 tags:
     - Electro
     - Glitch
     - IDM
     - UK
 ---
-![](/assets/img/0001515305_10.jpg)
 
 **After Crash** è un duo composto da **Francesco Cassino** e **Nicola Nesi.** Attivo dal lontano 2005, il duo elettronico pubblica il primo EP nel 2012: *The Westbourne Terrace Ep*, che racchiude al suo interno molte sonorità (e suoni) diversi, acustici ed elettronici, intrecciati dai due compositori in modo eccellente.
 

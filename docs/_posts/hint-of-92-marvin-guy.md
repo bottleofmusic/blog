@@ -1,27 +1,22 @@
 ---
-title: 'Hint of &#8217;92, Marvin &#038; Guy'
+title: Hint of '92, Marvin & Guy
 date: 2019-06-14
-status: publish
-permalink: /hint-of-92-marvin-guy
+published: true
 author: Alice Dini
 featuredimg: /assets/img/aaa.jpeg
-category:
-    - Recensioni
+category: recensioni
 tags:
     - Berlino
     - Electro
     - Germania
     - House
     - Italia
-    - 'Marvin &amp; Guy'
+    - Marvin & Guy
     - Parma
-    - Recensione
     - Techno
     - Trance
 ---
-![](/assets/img/aaa.jpeg)
-
-**Marvin &amp; Guy**, nome d’arte di **Alessandro Parlatore** e **Marcello Giordani**, è un duo originario di Parma. *Hint of ’92* è il loro ultimo ep, uscito il 24 Maggio 2019 per **Permanent Vacation**, nota etichetta discografica tedesca.
+**Marvin & Guy**, nome d’arte di **Alessandro Parlatore** e **Marcello Giordani**, è un duo originario di Parma. *Hint of ’92* è il loro ultimo ep, uscito il 24 Maggio 2019 per **Permanent Vacation**, nota etichetta discografica tedesca.
 
 L’ep si presenta come un aggregato delle influenze ricevute dal duo durante il loro percorso, che vanno dalla trance all’elettronica anni ’90, passando per la techno berlinese e la musica house.
 

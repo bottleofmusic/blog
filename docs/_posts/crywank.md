@@ -1,12 +1,10 @@
 ---
 title: Crywank
 date: 2019-01-07
-status: publish
-permalink: /crywank
+published: true
 author: Alice Dini
 featuredimg: /assets/img/IMG_0176-2-01.png
-category:
-    - Artisti
+category: artisti
 tags:
     - Anti-folk
     - Crywank
@@ -16,8 +14,6 @@ tags:
     - Manchester
     - UK
 ---
-![](/assets/img/IMG_0176-2-01.png)
-
 **Crywank** nasce come progetto solista anti-folk di **James Clayton**, originario di Manchester, nel 2009. Il nome rimanda all’atto di piangere durante la masturbazione e pare fosse un nomignolo attribuito a **James** da qualche suo amico per descriverne l’attitudine. Il nome stesso basterebbe a descrivere l’inclinazione del progetto e il genere di atmosfere che ricrea.
 
 Durante il percorso il progetto ha acquisito due membri, **Dan Watson** nel 2012 alle percussioni e **Tom Connolly** al basso nel 2014.

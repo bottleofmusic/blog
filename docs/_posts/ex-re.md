@@ -1,12 +1,10 @@
 ---
 title: 'Ex:Re'
 date: 2019-02-05
-status: publish
-permalink: /ex-re
+published: true
 author: Alice Dini
 featuredimg: /assets/img/CNV00035-web-04.png
-category:
-    - Artisti
+category: artisti
 tags:
     - 'Elena Tonra'
     - 'Ex:Re'
@@ -14,8 +12,6 @@ tags:
     - 'Indie Folk'
     - UK
 ---
-![](/assets/img/CNV00035-web-04.png)
-
 **Ex:Re** è il nuovo progetto solista di **Elena Tonra**, chitarrista, voce e penna dei **Daughter**.
 
 Il suo unico album, omonimo al progetto, è uscito il 30 Novembre 2018 per **4AD**. L’album si racconta da solo, attraverso testi e atmosfere intimiste. Lo stile ricalca quello già ben delineato dei **Daughter**, anche se **Elena** in questo album fa un passo indietro rispetto all’ultimo lavoro del gruppo e torna sui passi di *Youth* o *Smother*, brani dei **Daughter** che hanno fatto la storia della musica indie folk e alternative rock più malinconica.

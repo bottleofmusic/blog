@@ -1,19 +1,16 @@
 ---
 title: 'Антоха MC'
 date: 2018-09-14
-status: publish
-permalink: /%d0%b0%d0%bd%d1%82%d0%be%d1%85%d0%b0-mc
+published: true
 author: Alice Dini
 featuredimg: /assets/img/photo_2017-01-26_11-56-25.jpeg
-category:
-    - Artisti
+category: artisti
 tags:
     - Rap
     - Russia
 ---
-![](/assets/img/photo_2017-01-26_11-56-25.jpeg)
 
-**Антоха MC** \[Antoha MC\], o Антон Александрович Кузнецов \[Anton Aleksandrovich Kuznetsov\], è un musicista e rapper russo, nato a **Mosca** nel 1990 inizia presto i suoi studi di trombettista, incoraggiato da una famiglia di musicisti.
+**Антоха MC** (Antoha MC), o Антон Александрович Кузнецов (Anton Aleksandrovich Kuznetsov), è un musicista e rapper russo, nato a **Mosca** nel 1990 inizia presto i suoi studi di trombettista, incoraggiato da una famiglia di musicisti.
 
 Nel 2011 esce il suo primo album, *От всей души*, totalmente autoprodotto, che conta appena 500 copie in cd distribuite fra amici, parenti e altri pochi curiosi. Al contrario di molti rapper suoi connazionali, **Антоха MC** descrive nei suoi testi situazioni e contesti di vita allegri e spensierati, con una leggerezza non comune nell’ambiente russo. Negli anni che lo separano dall’uscita delle opere successive suona su molti palchi spesso accompagnato da altri membri della sua famiglia.
 

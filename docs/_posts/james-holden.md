@@ -1,12 +1,10 @@
 ---
 title: 'James Holden'
 date: 2019-03-26
-status: publish
-permalink: /james-holden
+published: true
 author: Alice Dini
-featuredimg: /assets/img/james_holden_1517916695._1x2560.jpg
-category:
-    - Artisti
+featuredimg: /assets/img/james_holden_1517916695.jpg
+category: artisti
 tags:
     - Electro
     - Exeter
@@ -14,13 +12,11 @@ tags:
     - House
     - IDM
     - Inghilterra
-    - 'James Holde'
+    - 'James Holden'
     - Techno
     - 'The Animal Spirits'
     - UK
 ---
-![](/assets/img/james_holden_1517916695._1x2560.jpg)
-
 **James Alexander Goodale Holden**, meglio conosciuto come **James Holden**, nasce nel 1979 a Exeter in Inghilterra, e esordisce nel mondo della musica a vent’anni, con il b side *Horizons/Pacific*, pubblicato da **Silver Planet**. Da subito inserito fra le promesse della musica house James apre la sua carriera all’interno del mondo della musica “dance”.
 
 Negli anni subito successivi continua a produrre e fonda un’etichetta, **Border Community**, dove pubblica un EP nel 2003, *A Break In The Clouds.*
