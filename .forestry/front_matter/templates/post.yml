@@ -45,3 +45,15 @@ fields:
 - type: text
   name: summary
   label: summary
+- name: authors
+  type: list
+  config:
+    use_select: true
+    min: 1
+    max: 
+    source:
+      type: simple
+    options:
+    - Alice Dini
+    - AC
+  label: authors
