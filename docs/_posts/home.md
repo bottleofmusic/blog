@@ -4,7 +4,7 @@ date: 2019-03-21
 published: true
 author: Alice Dini
 featuredimg: /assets/img/15530962247563194124641598187642-01-01.jpeg
-category: artisti
+category: Artisti
 tags:
     - Florida
     - Home

@@ -35,12 +35,12 @@ fields:
 - name: category
   label: Categoria
   type: select
-  default: artisti
+  default: Artisti
   config:
     required: true
     options:
-    - artisti
-    - recensioni
+    - Artisti
+    - Recensioni
     source:
       type: simple
       section:

@@ -1,5 +1,7 @@
 <template>
-	<router-link :to="'/tag/' + encodeURIComponent(tag)"> {{ tag }}</router-link>
+	<router-link :to="'/tag/' + encodeURIComponent(tag)" class="post-tag">
+		{{ tag }}</router-link
+	>
 </template>
 
 <script>
@@ -16,48 +18,12 @@ export default {
 
 <style lang="stylus" scoped>
 .post-tag
-	background-color $postTagBgColor
-	border-radius 3px 0 0 3px
-	height 26px
-	padding 0 20px 0 23px
-	position relative
+	padding-right 5px
 	cursor pointer
+	color $postTagColor
+	text-decoration none
+	transition color 0.2s
 
-	&:not(:last-child)
-		margin-right 10px
-
-	a
-		color $postTagColor
-		text-decoration none
-		transition color 0.2s
-
-	&:before
-		position absolute
-		left 10px
-		top 10px
-		background #fff
-		border-radius 50%
-		box-shadow inset 0 1px rgba(0, 0, 0, 0.25)
-		content ''
-		height 6px
-		width 6px
-
-	&:after
-		position absolute
-		right 0
-		top 0
-		background $bgColor
-		border-bottom 13px solid transparent
-		border-left 10px solid $postTagBgColor
-		border-top 13px solid transparent
-		content ''
-
-	&:hover
-		background-color $accentColor
-
-		&:after
-			border-left-color $accentColor
-
-		a
-			color #fff
+	&:not(:last-child)::after
+		content ","
 </style>

@@ -4,7 +4,7 @@ date: 2019-03-26
 published: true
 author: Alice Dini
 featuredimg: /assets/img/james_holden_1517916695.jpg
-category: artisti
+category: Artisti
 tags:
     - Electro
     - Exeter

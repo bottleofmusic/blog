@@ -4,7 +4,7 @@ date: 2018-10-03
 published: true
 author: Alice Dini
 featuredimg: /assets/img/elliotmoss10.jpg
-category: artisti
+category: Artisti
 tags:
     - Alternative
     - Electro-pop

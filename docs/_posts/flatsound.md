@@ -4,7 +4,7 @@ date: 2019-03-13
 published: true
 author: Alice Dini
 featuredimg: /assets/img/IMG_2005.jpg
-category: artisti
+category: Artisti
 tags:
     - Alternative
     - California

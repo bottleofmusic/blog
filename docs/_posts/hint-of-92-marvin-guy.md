@@ -4,7 +4,7 @@ date: 2019-06-14
 published: true
 author: Alice Dini
 featuredimg: /assets/img/aaa.jpeg
-category: recensioni
+category: Recensioni
 tags:
     - Berlino
     - Electro

@@ -4,7 +4,7 @@ date: 2019-01-15
 published: true
 author: Alice Dini
 featuredimg: /assets/img/Be-Forest-Press-Photo-by-Luca-Sorbini.jpg
-category: artisti
+category: Artisti
 tags:
     - 'Be Forest'
     - 'Dream Pop'

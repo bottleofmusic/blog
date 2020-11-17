@@ -4,7 +4,7 @@ date: 2019-02-27
 published: true
 author: Alice Dini
 featuredimg: /assets/img/sophielive.jpg
-category: artisti
+category: Artisti
 tags:
     - Glasgow
     - Glitch

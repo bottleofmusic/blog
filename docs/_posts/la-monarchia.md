@@ -4,7 +4,7 @@ date: 2019-04-17
 published: true
 author: Alice Dini
 featuredimg: /assets/img/1009530_160399994141911_1245892016_o.jpg
-category: artisti
+category: Artisti
 tags:
     - 'Alternative Rock'
     - Italia

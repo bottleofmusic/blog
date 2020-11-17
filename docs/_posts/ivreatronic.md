@@ -4,7 +4,7 @@ date: 2018-09-28
 published: true
 author: AC
 featuredimg: /assets/img/26757127_179466612652285_8750641729395243752_o-01.png
-category: artisti
+category: Artisti
 tags:
     - Dance
     - Electro

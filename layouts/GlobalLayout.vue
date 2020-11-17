@@ -5,7 +5,7 @@
 			:is-open="isMobileHeaderOpen"
 			@toggle-sidebar="isMobileHeaderOpen = !isMobileHeaderOpen"
 		/>
-		<div class="container wrapmain" @click="isMobileHeaderOpen = false">
+		<div class="wrapmain" @click="isMobileHeaderOpen = false">
 			<DefaultGlobalLayout />
 		</div>
 		<Footer />

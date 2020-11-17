@@ -26,22 +26,63 @@ module.exports = {
 			{
 				id: "tag",
 				keys: ["tags"],
-				path: "/tag/"
+				path: "/tag/",
+				pagination: {
+					filter: (page, id, pid) => {
+						const keys = ["tags"];
+						const value = id;
+						return keys.some(key => {
+							const _value = page.frontmatter[key];
+							if (Array.isArray(_value)) {
+								return _value.some(i => i === value);
+							}
+							return _value === value;
+						}) && !!page.frontmatter.published;
+					}
+				}
 			},
 			{
 				id: "location",
 				keys: ["location"],
-				path: "/luoghi/"
+				path: "/location/",
+				layout: "PostsMap",
+				pagination: {
+					filter: (page, id, pid) => {
+						const keys = ["location"];
+						const value = id;
+						return keys.some(key => {
+							const _value = page.frontmatter[key];
+							if (Array.isArray(_value)) {
+								return _value.some(i => i === value);
+							}
+							return _value === value;
+						}) && !!page.frontmatter.published;
+					}
+				}
 			},
 			{
 				id: "category",
 				keys: ["category"],
-				path: "/categoria/"
+				path: "/category/",
+				title: "",
+				pagination: {
+					filter: (page, id, pid) => {
+						const keys = ["category"];
+						const value = id;
+						return keys.some(key => {
+							const _value = page.frontmatter[key];
+							if (Array.isArray(_value)) {
+								return _value.some(i => i === value);
+							}
+							return _value === value;
+						}) && !!page.frontmatter.published;
+					}
+				}
 			}
 		],
 		globalPagination: {
-			lengthPerPage: 9,
-			filter: page => !!page.frontmatter.published
+			lengthPerPage: 8,
+			filter: (page, id, pid) => page.pid === pid && page.id === id && !!page.frontmatter.published
 		},
 		authors: [
 			{
@@ -61,11 +102,11 @@ module.exports = {
 			},
 			{
 				text: "Artisti",
-				link: "/categoria/artisti/"
+				link: "/category/artisti/"
 			},
 			{
 				text: "Recensioni",
-				link: "/categoria/recensioni/"
+				link: "/category/recensioni/"
 			},
 			{
 				text: "Tag",
@@ -73,7 +114,7 @@ module.exports = {
 			},
 			{
 				text: "Luoghi",
-				link: "/luoghi/"
+				link: "/location/"
 			},
 			{
 				text: "Informazioni",
@@ -114,7 +155,8 @@ module.exports = {
 		},
 		comment: {
 			service: "disqus",
-			shortname: "bottleofmusic"
+			shortname: "bottleofmusic",
+			language: "it"
 		},
 		newsletter: {
 			endpoint: ""

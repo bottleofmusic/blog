@@ -51,5 +51,16 @@ export default {
 			return [this.tags]
 		},
 	},
+	mounted() {
+		dayjs.locale('it')
+	},
 }
 </script>
+
+<style lang="stylus">
+.post-meta-tags
+	margin-bottom: 40px;
+
+	.post-tag::after
+		content: '' !important
+</style>

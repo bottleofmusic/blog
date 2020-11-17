@@ -4,7 +4,7 @@ date: 2019-01-07
 published: true
 author: Alice Dini
 featuredimg: /assets/img/15482538387091877643047-01-02.png
-category: artisti
+category: Artisti
 tags:
     - Diamine
     - Electro-pop

@@ -4,10 +4,10 @@ date: 2019-04-03
 published: true
 author: Alice Dini
 featuredimg: /assets/img/52774242_2364707830229015_706363713208188928_o.jpg
-category: artisti
+category: Artisti
 tags:
     - Alternative
-    - 'Cactus?'
+    - Cactus
     - 'Indie Rock'
     - Italia
     - Lo-fi

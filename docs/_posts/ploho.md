@@ -4,7 +4,7 @@ date: 2019-02-13
 published: true
 author: Alice Dini
 featuredimg: /assets/img/23331431_756834844441268_1429452254701542397_o-e1550066909480.jpg
-category: artisti
+category: Artisti
 tags:
     - Darkwave
     - Ploho

@@ -4,7 +4,7 @@ date: 2019-03-11
 published: false
 author: AC
 featuredimg: /assets/img/chinabot2-e1552315449360.png
-category: artisti
+category: Artisti
 tags:
     - Asia
     - Chinabot

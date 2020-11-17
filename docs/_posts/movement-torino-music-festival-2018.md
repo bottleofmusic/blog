@@ -4,7 +4,7 @@ date: 2018-10-04T00:58:34+02:00
 published: true
 author: Alice Dini
 featuredimg: "/assets/img/movement-torino-music-festival-png.jpg"
-category: recensioni
+category: Recensioni
 tags:
     - Festival
     - Italia

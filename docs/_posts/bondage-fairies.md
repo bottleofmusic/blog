@@ -4,7 +4,7 @@ date: 2019-04-10
 published: true
 author: Alice Dini
 featuredimg: /assets/img/BondageFairies_Pressepic_Credit_AnnaMolin_2017_1.jpg
-category: artisti
+category: Artisti
 tags:
     - 'Bondage Fairies'
     - Glitch

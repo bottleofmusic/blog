@@ -4,7 +4,7 @@ date: 2019-03-01
 published: true
 author: Alice Dini
 featuredimg: /assets/img/a3328789930_10.jpg
-category: recensioni
+category: Recensioni
 tags:
     - Emocore
     - Italia

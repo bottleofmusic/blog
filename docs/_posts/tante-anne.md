@@ -4,7 +4,7 @@ date: 2018-12-12
 published: true
 author: Alice Dini
 featuredimg: /assets/img/1492082416502-tante-anna-2017-1.jpg
-category: artisti
+category: Artisti
 tags:
     - Darkwave
     - Emo

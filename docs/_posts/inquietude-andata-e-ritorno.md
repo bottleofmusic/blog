@@ -4,9 +4,9 @@ date: 2018-10-29
 published: true
 author: Alice Dini
 featuredimg: /assets/img/43706392_1193417294139803_1011969559944495104_o-e1550071660206.jpg
-category: recensioni
+category: Recensioni
 tags:
-    - Cantù
+    - Cantu
     - 'Hip Hop'
     - Inquietude
     - Italia

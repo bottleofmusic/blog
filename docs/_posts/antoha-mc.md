@@ -4,7 +4,7 @@ date: 2018-09-14
 published: true
 author: Alice Dini
 featuredimg: /assets/img/photo_2017-01-26_11-56-25.jpeg
-category: artisti
+category: Artisti
 tags:
     - Rap
     - Russia

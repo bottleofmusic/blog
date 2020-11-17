@@ -4,7 +4,7 @@ date: 2019-02-20
 published: true
 author: Alice Dini
 featuredimg: /assets/img/AUTUMN-COMETS_Camden_Peris.jpg
-category: artisti
+category: Artisti
 tags:
     - 'Alternative Rock'
     - Folk

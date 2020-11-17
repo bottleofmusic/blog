@@ -4,7 +4,7 @@ date: 2018-09-18
 published: true
 author: Alice Dini
 featuredimg: /assets/img/venetian-snares-body-image-1454341362.jpg
-category: artisti
+category: Artisti
 tags:
     - Breakcore
     - Canada

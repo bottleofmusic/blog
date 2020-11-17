@@ -4,7 +4,7 @@ date: 2018-05-28
 published: true
 author: AC
 featuredimg: /assets/img/a1206536827_10-e1524150917777.jpg
-category: recensioni
+category: Recensioni
 tags:
     - Italia
     - Ivreatronic

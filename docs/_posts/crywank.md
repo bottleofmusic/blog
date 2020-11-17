@@ -4,7 +4,7 @@ date: 2019-01-07
 published: true
 author: Alice Dini
 featuredimg: /assets/img/IMG_0176-2-01.png
-category: artisti
+category: Artisti
 tags:
     - Anti-folk
     - Crywank

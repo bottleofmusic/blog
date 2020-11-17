@@ -4,10 +4,10 @@ date: 2019-02-05
 published: true
 author: Alice Dini
 featuredimg: /assets/img/CNV00035-web-04.png
-category: artisti
+category: Artisti
 tags:
     - 'Elena Tonra'
-    - 'Ex:Re'
+    - 'Ex-Re'
     - Indie
     - 'Indie Folk'
     - UK

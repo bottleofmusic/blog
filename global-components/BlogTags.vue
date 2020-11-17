@@ -2,7 +2,14 @@
 	<div class="row justify-content-center">
 		<div class="blog-tags col-md-10 text-center mt-5">
 			<h1 class="font-secondary mb-5 font-weight-bold">Tags</h1>
-			<BlogTag v-for="tag in tags" :key="tag.name" :tag="tag" />
+			<BlogTag
+				v-for="tag in tags.sort((a, b) => a.name.localeCompare(b.name))"
+				v-if="
+					tag.pages.filter(value => !!value.frontmatter.published).length > 0
+				"
+				:key="tag.name"
+				:tag="tag"
+			/>
 		</div>
 	</div>
 </template>

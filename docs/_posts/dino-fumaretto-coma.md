@@ -4,7 +4,7 @@ date: 2019-03-10
 published: true
 author: Alice Dini
 featuredimg: /assets/img/1515583501165.jpg
-category: recensioni
+category: Recensioni
 tags:
     - 'Dino Fumaretto'
     - Firenze

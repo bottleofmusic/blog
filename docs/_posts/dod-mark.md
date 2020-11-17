@@ -4,7 +4,7 @@ date: 2018-09-12
 published: true
 author: Alice Dini
 featuredimg: /assets/img/dodmark-edit.jpg
-category: artisti
+category: Artisti
 tags:
     - Hardcore
     - Post-Punk

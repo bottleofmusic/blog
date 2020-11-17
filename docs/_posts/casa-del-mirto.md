@@ -4,7 +4,7 @@ date: 2018-09-19
 published: true
 author: Alice Dini
 featuredimg: /assets/img/15-domande-intervista-rockit-casa-del-mirto.jpg
-category: artisti
+category: Artisti
 tags:
     - Chillwave
     - 'Dream Pop'

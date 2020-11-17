@@ -4,7 +4,7 @@ date: 2019-03-06
 published: true
 author: Alice Dini
 featuredimg: /assets/img/neutral.jpg
-category: artisti
+category: Artisti
 tags:
     - Alternative
     - 'Neutral Milk Hotel'

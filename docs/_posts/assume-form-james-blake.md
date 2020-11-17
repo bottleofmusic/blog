@@ -4,7 +4,7 @@ date: 2019-01-18
 published: true
 author: Alice Dini
 featuredimg: /assets/img/james-blake-assume-form.jpg
-category: recensioni
+category: Recensioni
 tags:
     - Blues
     - Elettronica

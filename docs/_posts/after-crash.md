@@ -4,7 +4,8 @@ date: 2018-10-04
 published: true
 author: Alice Dini
 featuredimg: /assets/img/0001515305_10.jpg
-category: artisti
+category: Artisti
+location: UK
 tags:
     - Electro
     - Glitch

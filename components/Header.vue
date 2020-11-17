@@ -2,13 +2,13 @@
 	<section id="header-wrapper">
 		<header id="header">
 			<div class="header-wrapper">
-				<nav class="navbar navbar-expand-md navbar-light bg-white fixed-top">
+				<nav class="navbar navbar-light bg-white fixed-top">
 					<NavLink class="navbar-brand" link="/">
 						<img :src="$withBase($themeConfig.logo)" alt="Logo" />
 						{{ $site.title }}
 					</NavLink>
-					<div id="navbarsExampleDefault" class="navbar-collapse">
-						<ul v-if="$themeConfig.nav" class="navbar-nav ml-auto">
+					<div>
+						<ul v-if="$themeConfig.nav" class="navbar-nav">
 							<li
 								v-for="item in $themeConfig.nav"
 								:key="item.text"
@@ -67,7 +67,6 @@ export default {
 				margin-left 20px
 
 				a
-					text-decoration none
 					transition color 0.3s
 
 		.search-box
@@ -95,12 +94,6 @@ export default {
 						color $accentColor
 
 @media (max-width: $MQMobile)
-	#header
-		display none
-
 	.header-wrapper
-		flex-direction column
-
-		.header-right-wrap
-			display none
+		display none
 </style>
