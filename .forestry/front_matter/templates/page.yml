@@ -9,5 +9,5 @@ fields:
   config:
     required: false
 pages:
-  - docs/informazioni.md
-  - docs/privacy-policy.md
+- docs/informazioni.md
+- docs/privacy-policy.md

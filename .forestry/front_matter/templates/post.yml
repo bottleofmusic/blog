@@ -29,9 +29,9 @@ fields:
     - AC
     source:
       type: simple
-      section:
-      file:
-      path:
+      section: 
+      file: 
+      path: 
 - name: category
   label: Categoria
   type: select
@@ -43,9 +43,9 @@ fields:
     - Recensioni
     source:
       type: simple
-      section:
-      file:
-      path:
+      section: 
+      file: 
+      path: 
 - name: Tag
   type: tag_list
   default: []
