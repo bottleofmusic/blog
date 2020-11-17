@@ -9,10 +9,10 @@
 				itemscope
 				itemtype="https://schema.org/BlogPosting"
 			>
-				<meta :content="page.path" itemprop="mainEntityOfPage" />
+				<meta :content="page.path" itemprop="mainEntityOfPage"/>
 				<NavLink :link="page.path">
 					<div class="image">
-						<img :alt="page.title" :src="page.frontmatter.featuredimg" />
+						<img :alt="page.title" :src="page.frontmatter.featuredimg"/>
 					</div>
 					<h2 class="title" itemprop="name headline">{{ page.title }}</h2>
 					<p class="description" itemprop="description">
@@ -75,51 +75,48 @@
 <script>
 /* global THEME_BLOG_PAGINATION_COMPONENT */
 
-import Vue from 'vue'
-import dayjs from 'dayjs'
-import 'dayjs/locale/it'
-import {
-	Pagination,
-	SimplePagination,
-} from '@vuepress/plugin-blog/lib/client/components'
-import PostTag from '@theme/components/PostTag.vue'
+import Vue from "vue";
+import dayjs from "dayjs";
+import "dayjs/locale/it";
+import {Pagination, SimplePagination} from "@vuepress/plugin-blog/lib/client/components";
+import PostTag from "@theme/components/PostTag.vue";
 
 export default {
-	components: { PostTag },
+	components: {PostTag},
 	data() {
 		return {
-			paginationComponent: null,
-		}
+			paginationComponent: null
+		};
 	},
 	computed: {
 		pages() {
-			return this.$pagination.pages
-		},
+			return this.$pagination.length > 0 ? this.$pagination.pages : [];
+		}
 	},
 	created() {
-		this.paginationComponent = this.getPaginationComponent()
-		dayjs.locale('it')
+		this.paginationComponent = this.getPaginationComponent();
+		dayjs.locale("it");
 	},
 	methods: {
 		getPaginationComponent() {
-			const n = THEME_BLOG_PAGINATION_COMPONENT
-			if (n === 'Pagination') {
-				return Pagination
+			const n = THEME_BLOG_PAGINATION_COMPONENT;
+			if (n === "Pagination") {
+				return Pagination;
 			}
-			if (n === 'SimplePagination') {
-				return SimplePagination
+			if (n === "SimplePagination") {
+				return SimplePagination;
 			}
-			return Vue.component(n) || Pagination
+			return Vue.component(n) || Pagination;
 		},
 		resolvePostDate(date) {
-			return dayjs(date).format(this.$themeConfig.dateFormat)
+			return dayjs(date).format(this.$themeConfig.dateFormat);
 		},
 		resolvePostTags(tags) {
-			if (!tags || Array.isArray(tags)) return tags
-			return [tags]
-		},
-	},
-}
+			if (!tags || Array.isArray(tags)) return tags;
+			return [tags];
+		}
+	}
+};
 </script>
 
 <style lang="stylus">

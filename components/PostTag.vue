@@ -1,7 +1,5 @@
 <template>
-	<router-link :to="'/tag/' + encodeURIComponent(tag)" class="post-tag">
-		{{ tag }}</router-link
-	>
+	<router-link :to="'/tag/' + encodeURIComponent(tag)" class="post-tag">{{ tag }}</router-link>
 </template>
 
 <script>
