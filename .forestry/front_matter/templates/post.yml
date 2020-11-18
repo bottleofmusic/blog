@@ -49,9 +49,14 @@ fields:
 - name: Tag
   type: tag_list
   default: []
-  label: tags
+  label: Tags
 - name: featuredimg
   label: Immagine
   type: file
   config:
     maxSize: 64
+- name: location
+  type: text
+  config:
+    required: false
+  label: Luogo
