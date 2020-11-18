@@ -1,14 +1,8 @@
 <template>
 	<div class="posts-page">
 		<div class="posts" itemscope itemtype="http://schema.org/Blog">
-			<article
-				v-for="page in pages"
-				:key="page.key"
-				class="post"
-				itemprop="blogPost"
-				itemscope
-				itemtype="https://schema.org/BlogPosting"
-			>
+			<article v-for="page in pages" :key="page.key" class="post" itemprop="blogPost" itemscope
+					 itemtype="https://schema.org/BlogPosting">
 				<meta :content="page.path" itemprop="mainEntityOfPage"/>
 				<NavLink :link="page.path">
 					<div class="image">
@@ -139,9 +133,6 @@ export default {
 	color: $accentColor
 
 .posts-page
-	max-width: 960px
-	margin: 0 auto
-	padding: 30px
 	display: flex
 	flex-direction column
 	align-items: center

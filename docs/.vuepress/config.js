@@ -10,6 +10,12 @@ module.exports = {
 			lang: "it-IT"
 		}
 	},
+	markdown: {
+		anchor: {
+			permalink: false,
+			permalinkBefore: false
+		}
+	},
 	themeConfig: {
 		logo: "/assets/img/icon.png",
 		summary: true,
