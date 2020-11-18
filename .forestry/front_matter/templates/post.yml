@@ -46,7 +46,7 @@ fields:
       section: 
       file: 
       path: 
-- name: Tag
+- name: tags
   type: tag_list
   default: []
   label: Tags
