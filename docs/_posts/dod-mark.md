@@ -5,6 +5,7 @@ published: true
 author: Alice Dini
 featuredimg: /assets/img/dodmark-edit.jpg
 category: Artisti
+location: Stockholm
 tags:
     - Hardcore
     - Post-Punk

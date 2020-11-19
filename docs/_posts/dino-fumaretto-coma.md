@@ -5,6 +5,7 @@ published: true
 author: Alice Dini
 featuredimg: /assets/img/1515583501165.jpg
 category: Recensioni
+location: Mantova
 tags:
     - 'Dino Fumaretto'
     - Firenze

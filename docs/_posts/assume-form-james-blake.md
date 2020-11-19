@@ -5,6 +5,7 @@ published: true
 author: Alice Dini
 featuredimg: /assets/img/james-blake-assume-form.jpg
 category: Recensioni
+location: London
 tags:
     - Blues
     - Elettronica

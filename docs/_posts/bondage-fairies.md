@@ -5,6 +5,7 @@ published: true
 author: Alice Dini
 featuredimg: /assets/img/BondageFairies_Pressepic_Credit_AnnaMolin_2017_1.jpg
 category: Artisti
+location: Stockholm
 tags:
     - 'Bondage Fairies'
     - Glitch

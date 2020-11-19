@@ -5,6 +5,7 @@ published: true
 author: Alice Dini
 featuredimg: /assets/img/elliotmoss10.jpg
 category: Artisti
+location: New York
 tags:
     - Alternative
     - Electro-pop

@@ -5,6 +5,7 @@ published: true
 author: AC
 featuredimg: /assets/img/26757127_179466612652285_8750641729395243752_o-01.png
 category: Artisti
+location: Ivrea
 tags:
     - Dance
     - Electro

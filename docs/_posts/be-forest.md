@@ -5,6 +5,7 @@ published: true
 author: Alice Dini
 featuredimg: /assets/img/Be-Forest-Press-Photo-by-Luca-Sorbini.jpg
 category: Artisti
+location: Pesaro
 tags:
     - 'Be Forest'
     - 'Dream Pop'

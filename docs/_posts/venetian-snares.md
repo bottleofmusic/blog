@@ -5,6 +5,7 @@ published: true
 author: Alice Dini
 featuredimg: /assets/img/venetian-snares-body-image-1454341362.jpg
 category: Artisti
+location: Winnipeg
 tags:
     - Breakcore
     - Canada

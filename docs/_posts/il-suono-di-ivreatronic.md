@@ -5,6 +5,7 @@ published: true
 author: AC
 featuredimg: /assets/img/a1206536827_10-e1524150917777.jpg
 category: Recensioni
+location: Ivrea
 tags:
     - Italia
     - Ivreatronic

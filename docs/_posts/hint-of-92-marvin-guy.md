@@ -5,6 +5,7 @@ published: true
 author: Alice Dini
 featuredimg: /assets/img/aaa.jpeg
 category: Recensioni
+location: Parma
 tags:
     - Berlino
     - Electro

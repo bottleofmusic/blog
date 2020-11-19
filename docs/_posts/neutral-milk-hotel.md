@@ -5,6 +5,7 @@ published: true
 author: Alice Dini
 featuredimg: /assets/img/neutral.jpg
 category: Artisti
+location: Ruston
 tags:
     - Alternative
     - 'Neutral Milk Hotel'

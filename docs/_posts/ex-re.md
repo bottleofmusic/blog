@@ -5,6 +5,7 @@ published: true
 author: Alice Dini
 featuredimg: /assets/img/CNV00035-web-04.png
 category: Artisti
+location: London
 tags:
     - 'Elena Tonra'
     - 'Ex-Re'

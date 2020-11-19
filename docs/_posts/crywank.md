@@ -5,6 +5,7 @@ published: true
 author: Alice Dini
 featuredimg: /assets/img/IMG_0176-2-01.png
 category: Artisti
+location: Manchester
 tags:
     - Anti-folk
     - Crywank

@@ -136,7 +136,6 @@ export default {
 	display: flex
 	flex-direction column
 	align-items: center
-	box-sizing content-box
 
 	.posts
 		display: grid

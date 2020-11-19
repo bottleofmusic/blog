@@ -5,13 +5,13 @@ published: true
 author: Alice Dini
 featuredimg: /assets/img/james_holden_1517916695.jpg
 category: Artisti
+location: London
 tags:
     - Electro
     - Exeter
     - Glitch
     - House
     - IDM
-    - Inghilterra
     - 'James Holden'
     - Techno
     - 'The Animal Spirits'

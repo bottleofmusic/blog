@@ -5,6 +5,7 @@ published: true
 author: Alice Dini
 featuredimg: /assets/img/15530962247563194124641598187642-01-01.jpeg
 category: Artisti
+location: Chicago
 tags:
     - Florida
     - Home

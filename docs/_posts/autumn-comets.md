@@ -5,6 +5,7 @@ published: true
 author: Alice Dini
 featuredimg: /assets/img/AUTUMN-COMETS_Camden_Peris.jpg
 category: Artisti
+location: Madrid
 tags:
     - 'Alternative Rock'
     - Folk

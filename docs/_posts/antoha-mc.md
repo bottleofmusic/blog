@@ -5,6 +5,7 @@ published: true
 author: Alice Dini
 featuredimg: /assets/img/photo_2017-01-26_11-56-25.jpeg
 category: Artisti
+location: Moscow
 tags:
     - Rap
     - Russia

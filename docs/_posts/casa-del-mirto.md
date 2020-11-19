@@ -5,6 +5,7 @@ published: true
 author: Alice Dini
 featuredimg: /assets/img/15-domande-intervista-rockit-casa-del-mirto.jpg
 category: Artisti
+location: Trento
 tags:
     - Chillwave
     - 'Dream Pop'

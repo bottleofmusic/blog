@@ -5,6 +5,7 @@ published: true
 author: Alice Dini
 featuredimg: /assets/img/15482538387091877643047-01-02.png
 category: Artisti
+location: Roma
 tags:
     - Diamine
     - Electro-pop

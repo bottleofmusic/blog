@@ -5,6 +5,7 @@ published: true
 author: AC
 featuredimg: /assets/img/10572197_414733598687106_1462034200825397411_o3.jpg
 category: Artisti
+location: Champaign
 tags:
     - Indie
     - 'Psychedelic pop'

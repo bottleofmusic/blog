@@ -5,6 +5,7 @@ published: true
 author: Alice Dini
 featuredimg: /assets/img/IMG_2005.jpg
 category: Artisti
+location: San Diego
 tags:
     - Alternative
     - California

@@ -4,6 +4,7 @@ date: 2018-10-06
 published: false
 author: Alice Dini
 category: Recensioni
+location: Solarino
 tags: []
 ---
 Iniziare una settimana non è mai facile, il lunedì sembra un ostacolo insormontabile, ma quasi a voler consolare tutti quegli studenti che sconsolati si dirigono in facoltà, stamattina, lunedì 24 Settembre, è uscito Compendio Infedele. Un album di sette brani, di cui due inediti, due versioni demo e un remix di brani di Infedele e due cover, già uscite in precedenza.

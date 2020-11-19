@@ -5,6 +5,7 @@ published: true
 author: Alice Dini
 featuredimg: /assets/img/37186271_633288820369094_8808422958486781952_n.jpg
 category: Artisti
+location: Palermo
 tags:
     - Electro
     - Experimental

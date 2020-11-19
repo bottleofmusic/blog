@@ -5,6 +5,7 @@ published: false
 author: AC
 featuredimg: /assets/img/chinabot2-e1552315449360.png
 category: Artisti
+location: London
 tags:
     - Asia
     - Chinabot

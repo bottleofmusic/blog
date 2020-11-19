@@ -5,6 +5,7 @@ published: true
 author: Alice Dini
 featuredimg: "/assets/img/movement-torino-music-festival-png.jpg"
 category: Recensioni
+location: Torino
 tags:
     - Festival
     - Italia

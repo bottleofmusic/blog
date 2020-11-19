@@ -5,6 +5,7 @@ published: true
 author: Alice Dini
 featuredimg: /assets/img/a3328789930_10.jpg
 category: Recensioni
+location: Igresias
 tags:
     - Emocore
     - Italia

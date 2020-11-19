@@ -5,6 +5,7 @@ published: true
 author: AC
 featuredimg: /assets/img/1dbe5757251453.59ce41be4ebde2.jpg
 category: Artisti
+location: Copenaghen
 tags:
     - Danimarca
     - Techno

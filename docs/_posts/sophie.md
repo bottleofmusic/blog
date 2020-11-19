@@ -5,6 +5,7 @@ published: true
 author: Alice Dini
 featuredimg: /assets/img/sophielive.jpg
 category: Artisti
+location: Los Angeles
 tags:
     - Glasgow
     - Glitch

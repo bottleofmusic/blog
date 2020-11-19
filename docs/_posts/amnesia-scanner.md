@@ -5,6 +5,7 @@ published: true
 author: Alice Dini
 featuredimg: /assets/img/15622891471_906cabe09f_b.jpg
 category: Artisti
+location: Berlin
 tags:
     - 'Amnesia Scanner'
     - Berlino
